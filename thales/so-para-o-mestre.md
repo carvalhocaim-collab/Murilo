@@ -29,6 +29,25 @@
   - **Luz.** É o "Sol" da filosofia. As frases somem ao sol e Kauã não consegue desenhá-lo no sol.
   - **Sangue.** Lembrar sentindo de verdade, e não com vergonha. Quando Thales conta a verdade chorando na cozinha da mãe de Yasmin, o nome dela volta por um dia. A vergonha alimenta o Rascunho; a dor sentida o fere.
 
+### A ficha oficial na história
+
+O Rascunho do livro é "a concepção do horror esquecido, uma memória apagada que cresce como um tumor dentro da mente". Na campanha, o horror esquecido é **Itaguaré**: uma verdade que o país foi obrigado a esquecer por uma errata, enquanto ela continua acontecendo. Cada habilidade da ficha já tem um rastro plantado na história:
+
+| Na ficha | Na história |
+|---|---|
+| **Ele Não Existe:** invisível, inaudível e incorpóreo quando alguém o olha diretamente | Kauã: *"se olhar direito ele vira borracha"*; o canto do quarto fica vazio quando ele olha |
+| **Possuir Objeto:** telecinesia quando ninguém está olhando | O lápis do outro lado do quarto, a cadeira afastada, o caderno caindo no chão aberto nas onze páginas (Cap. XIII) |
+| **Aterrorizar:** perturbação mental e interferência em aparelhos eletrônicos | A impressora da Fresta imprimindo sozinha às 3h da manhã; o celular que apaga no parágrafo dos nomes; *"a coceira"* na nuca de Kauã e no fundo da cabeça de Thales |
+| **Piscar:** teleporte em alcance extremo | Ainda não usado. Guarde para a fase 4 |
+| **Presença Perturbadora** | A "coceira que nunca passa". Agentes com NEX 90% ou mais são imunes, o que torna a Ordem ainda mais cega a ele |
+| **"Corredores abandonados pelo homem e pela crença"** | A redação meio vazia da Fresta, o corredor do arquivo onde o vigia ouve passos; também servem a Câmara de Itaguaré depois de Osmar Prestes e os galpões da Serra Velha |
+| **Vulnerabilidade à Luz** | As frases da margem somem ao sol; Kauã só o desenha na sombra |
+| **Vulnerabilidade a Sangue** | Mecanicamente, dano de Sangue. Na história, **lembrar com dor verdadeira**: o nome de Yasmin volta na noite em que Thales chora contando a verdade |
+
+**Atenção ao equipamento do Thales.** O Rascunho tem **resistência 20 a balístico, corte, impacto e perfuração**. O revólver pesado e a espingarda do avô fazem pouquíssimo contra ele. As armas dele servem contra gente, contra a coisa da lama talvez nem isso, e contra o Rascunho quase nada. Ele vai precisar de **luz**, de **Sangue** e de **lembrar**. Isso combina com o personagem: ele tem armas porque Ivone mandou, mas a ferramenta de verdade dele sempre foi a palavra.
+
+**O paradoxo do combate.** Quando alguém olha o Rascunho de frente, ele fica incorpóreo e não pode ser atingido. Quando ninguém olha, ele fica vulnerável, mas atacá-lo sem olhar dá as penalidades de estar cego. A saída é **luz total no ambiente**: com ela, ele perde as resistências, sofre –10 na Defesa e tenta fugir. Um grupo que descubra isso sozinho, a partir das pistas de Kauã e da errata ao sol, deve ser recompensado.
+
 ### O dilema
 
 As duas criaturas exigem coisas opostas:
@@ -93,21 +112,31 @@ Há uma saída escondida que nenhum personagem conhece: se Ivone está errada, o
 
 ## 3. Como o Rascunho cresce ao longo da campanha
 
-A ficha completa do Rascunho (VD 300) é o **estágio final**. Antes disso, ele deve ser percebido muito mais do que enfrentado. Sugestão de cinco fases:
+A ficha oficial (VD 300, 750 PV, Defesa 48) é o **estágio final**. Ela é pesada demais para aparecer cedo. Antes disso, o Rascunho deve ser **percebido** muito mais do que enfrentado. A ideia é liberar uma habilidade da ficha por vez, de forma que cada fase ensine uma regra ao grupo.
 
-**Fase 1: Rastros (início da campanha).**
-Ele não aparece. Só há sinais: frases na margem de documentos, farelos de borracha, nomes sumindo da série toda segunda-feira, alguém lendo junto do lado esquerdo. Use em qualquer cena com papel: relatórios da Ordem, fichas de missão, o caderno. Ninguém consegue vê-lo de frente.
+**Fase 1: Rastros. Nenhuma habilidade de combate.**
+Só sinais: frases na margem de documentos, farelos de borracha, nomes sumindo da série toda segunda-feira, *"a coceira"*, alguém lendo junto do lado esquerdo. Use em qualquer cena com papel: relatórios da Ordem, fichas de missão, o caderno. Quando alguém olha diretamente, não há nada (**Ele Não Existe** desde o começo, porque é a regra que define a criatura).
 
-**Fase 2: Lacunas.**
-Ele começa a apagar coisas fora da série: um nome num relatório da Ordem, uma linha do caderno de outro agente, uma informação que o grupo tinha certeza de ter anotado. NPCs ligados ao caso (Marta, a família de Osmar Prestes, pais da Várzea) começam a esquecer pessoas próximas, como a mãe de Yasmin. Ele pode ser vislumbrado pelo canto do olho, alto e estreito, feito de traços apagados.
+**Fase 2: Lacunas. Ainda sem combate, mas já com Possuir Objeto.**
+Objetos pequenos mudam de lugar quando ninguém olha: uma caneta, uma pasta, uma porta entreaberta. Ainda não há dano. Ele começa a apagar coisas fora da série: um nome num relatório da Ordem, uma linha do caderno de outro agente, uma informação que o grupo tinha certeza de ter anotado. NPCs ligados ao caso (Marta, a família de Osmar Prestes, pais da Várzea) começam a esquecer pessoas próximas, como a mãe de Yasmin. Aparelhos eletrônicos falham perto de documentos do caso.
 
-**Fase 3: Aparições.**
-Ele aparece em ambientes de sombra e papel: arquivos, cartórios, a redação da Fresta à noite, a Câmara de Itaguaré. Ainda não ataca de forma direta. Quem o olha de frente perde algo, como uma lembrança, um nome ou uma informação recente. Luz forte o afasta. Um personagem que lembre com dor verdadeira, e não com vergonha, o faz recuar. Kauã pode ser a chave para localizá-lo.
+**Fase 3: Aparições. Entram a Presença Perturbadora e uma versão fraca de Aterrorizar.**
+Ele aparece de lado em lugares de sombra e abandono: o arquivo da Fresta à noite, a Câmara de Itaguaré, os galpões da Serra Velha, o quarto de Kauã. Peça testes de Presença Perturbadora quando ele estiver perto. Se precisar de números para Aterrorizar, use dano mental bem menor que o da ficha. Quem o olha de frente vê um canto vazio, mas perde algo pequeno: uma lembrança recente, um nome. Luz forte o faz sumir. Um personagem que lembre com dor verdadeira o faz recuar. Kauã pode ser a chave para localizá-lo.
 
-**Fase 4: Ameaça.**
-Ele passa a apagar **pessoas**. Os primeiros "nomes" da série que somem de vez são esquecidos completamente pelo mundo. Ele ataca quem escolheu não olhar, e o grupo pode precisar proteger Marta ou alguém da Várzea. As onze páginas ficam perigosas de abrir. Esse é o momento em que o dilema aperta: a publicação de Helena pode enfraquecê-lo, mas vai acordar a coisa da lama.
+**Fase 4: Ameaça. Possuir Objeto com dano e Piscar.**
+Ele passa a apagar **pessoas**: os primeiros nomes da série que somem de vez são esquecidos completamente pelo mundo. Ele arremessa objetos de verdade (arquivos de aço, a impressora da Fresta, uma geladeira na cozinha de alguém da Várzea) e usa **Piscar** para aparecer colado em quem está sozinho. Ele vai atrás de quem escolheu não olhar, e o grupo pode precisar proteger Marta ou alguém da Várzea. As onze páginas ficam perigosas de abrir. Esse é o momento em que o dilema aperta: a publicação de Helena pode enfraquecê-lo, mas vai acordar a coisa da lama.
 
-**Fase 5: Confronto (perto de novembro de 2026, ou no clímax da campanha).**
-Ele se manifesta inteiro, usando a ficha completa (VD 300). O alvo é o 156º nome: Thales. O cenário ideal é um lugar de papel e sombra, como o arquivo da Fresta ou a quitinete cheia de cadernos, ou a própria escola no alto da rua do cemitério, o fim da trilha de 1997. O confronto pode coincidir com a escavação da Várzea, para que as duas criaturas apareçam ao mesmo tempo: uma pedindo que todos esqueçam e a outra pedindo que todos fiquem.
+**Fase 5: Confronto. A ficha completa, VD 300.**
+Perto de novembro de 2026, ou no clímax da campanha. O alvo é o 156º nome: *Por Thales Garcias Martins*. Bons cenários:
+- o **arquivo da Fresta**, "corredor abandonado pelo homem e pela crença", cheio de papel e de sombra;
+- a **quitinete** de Thales, cheia de cadernos;
+- a **escola no alto da rua do cemitério**, o fim da trilha de 1997.
 
-**Uma possível vitória** não vem só de tiro. Vem de **trazer luz** (o Sol) e de **lembrar com o corpo** (Sangue): Thales lendo a série original em voz alta, desmentindo a errata publicamente e sentindo tudo o que evitou sentir. O preço pode ser a mãe, e essa é a pergunta que a campanha deve fazer ao jogador.
+O confronto pode coincidir com a escavação da Várzea, para que as duas criaturas apareçam juntas: uma pedindo que todos esqueçam e a outra pedindo que todos fiquem.
+
+**Uma possível vitória** não vem do revólver nem da espingarda, por causa da resistência 20. Vem de três coisas juntas:
+1. **Luz total**, que tira as resistências do Rascunho, dá –10 na Defesa e o faz fugir. É o "Sol" da filosofia.
+2. **Sangue**: dano desse elemento e, na história, **lembrar com o corpo**. Thales lendo a série original em voz alta, desmentindo a errata publicamente e sentindo tudo o que evitou sentir.
+3. **Alguém que olhe de lado**, como Kauã ensinou, para saber onde ele está sem torná-lo intocável.
+
+O preço da vitória pode ser a mãe, e essa é a pergunta que a campanha deve fazer ao jogador.

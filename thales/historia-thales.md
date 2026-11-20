@@ -714,6 +714,12 @@ Ele não respondeu. Duas semanas depois, ela mandou outra mensagem, mais curta:
 
 Também não respondeu. Não sabia o que dizer que não fosse uma mentira nova ou uma verdade que ela não ia acreditar.
 
+A terceira mensagem veio em maio, de madrugada, sem foto:
+
+*"Metade das mesas aqui estão vazias desde que os doadores foram embora. O vigia diz que ouve alguém andando no corredor do arquivo à noite. Quando ele acende a luz, não tem ninguém. Hoje a impressora imprimiu sozinha às três da manhã. A parte 1 inteira. Com espaço em branco no lugar dos nomes."*
+
+Ele leu a mensagem no escuro da quitinete e ficou um tempo olhando para o corredor da redação que conhecia de cor: as mesas vazias, o arquivo no fundo, as luzes apagadas. Um lugar que as pessoas tinham abandonado, e no qual já ninguém acreditava.
+
 Em abril, numa sessão da Câmara Municipal de Itaguaré, o vereador **Osmar Prestes** levantou-se para discursar sobre o asfalto da estrada. Ficou em pé, com o papel na mão, olhando para a folha. Ficou assim por quase dois minutos, em silêncio, até o presidente da Câmara perguntar se ele estava bem. Um assessor tirou a folha da mão dele e, mais tarde, contou aos colegas que o discurso estava em branco. Não havia nada escrito, exceto, no canto inferior, em letra miúda, duas palavras repetidas até o fim da margem:
 
 *não lembro não lembro não lembro não lembro não lembro*
@@ -738,6 +744,12 @@ Thales notou outra coisa: Kauã desenhava sempre debaixo da mesa da cozinha, na 
 
 *"No sol ele não fica"*, o menino explicou, como quem explica uma regra de futebol.
 
+Antes de Thales ir embora, Kauã puxou a manga dele e disse mais uma coisa, baixinho, para a mãe não ouvir:
+
+*"Às vezes ele fica parado no canto do meu quarto. Mas só quando eu não tô olhando. Quando eu olho, o canto tá vazio. Mas a coceira fica."*
+
+Ele apontou para a própria nuca.
+
 ---
 
 E havia o próprio Thales.
@@ -751,6 +763,12 @@ Aconteceu de novo em fevereiro e duas vezes em março. Em abril ele parou de ano
 Nas noites frias, as canelas dele doem com um frio que vem de dentro do osso. É o mesmo frio da manhã de 1997. O médico explicou anos atrás que o chumbo fica guardado nos ossos por trinta, quarenta anos, e que o corpo dele ainda tem a enchente dentro. Thales lembra dessa frase às vezes, quando acorda com as pernas geladas, e prefere não pensar nela até o fim.
 
 As crianças da Várzea também reclamam de dor nas canelas à noite. Os pais acham que é dor de crescimento.
+
+Na quitinete, as coisas mudam de lugar, mas nunca enquanto ele olha. Ele vira as costas para fazer café e, quando se vira de novo, o lápis está no chão, do outro lado do quarto, longe demais para ter rolado da mesa. A cadeira está afastada da mesa alguns centímetros, como se alguém tivesse acabado de se levantar. O celular, quando ele lê a série arquivada, pisca e escurece a tela sozinho, sempre no mesmo parágrafo, o dos nomes.
+
+Uma noite, deitado de costas para a mesa, ele ouviu o caderno cair no chão. Não se virou. Ficou ouvindo, por muito tempo, o som pequeno e paciente de páginas sendo viradas uma por uma, sem nenhum vento no quarto. Quando o som parou, ele contou até cem e acendeu a luz.
+
+O caderno estava no chão, aberto nas onze páginas. Não havia mais ninguém no quarto. Mas havia aquilo que ele depois chamou no caderno de *a coceira*: um incômodo no fundo da cabeça, como uma palavra na ponta da língua que nunca chega. Desde aquela noite, ela não passou.
 
 ---
 
