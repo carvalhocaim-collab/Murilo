@@ -4,955 +4,501 @@
 
 ---
 
-## Prólogo: O que vem atrás
+## Prólogo: O capuz
 
-Antes da reportagem, da errata e da Ordem, existe uma imagem que Thales Garcias Martins nunca conseguiu tirar da cabeça.
+O capuz era de pano de saco de farinha, com o cheiro doce e azedo do trigo velho. Tinha uma costura grossa bem na frente do rosto, e Thales Garcias Martins lembra mais da costura do que de qualquer outra coisa daquela noite. Ela raspava no nariz dele a cada respiração.
 
-Um menino de sete anos com lama até a cintura. Uma mochila amarrada num saco de supermercado, erguida acima da cabeça como se fosse a coisa mais valiosa do mundo. À frente dele, a mãe abre caminho na várzea alagada, olha para trás a cada três passos e repete a mesma frase, com uma voz que mistura medo e ordem:
+Ele estava de joelhos num chão de ladrilho frio, com as mãos amarradas nas costas com abraçadeira de plástico. Sentia sangue escorrendo do ombro esquerdo, quente, por dentro da camisa. Ouvia três homens respirando e um quarto andando devagar em volta dele, com o barulho de bota em caco de vidro.
+
+Ele sabia onde estava, porque tinha passado dois anos procurando aquele lugar.
+
+E sabia que ia morrer ali, porque tinha passado dois anos contando quantas pessoas tinham morrido ali antes dele.
+
+Ele não morreu. Até hoje não sabe direito por quê.
+
+Sabe só uma coisa, que nunca contou a ninguém do jeito certo, porque não existe um jeito certo de contar: naquela noite, durante quase quatro minutos, **havia mais alguém ajoelhado ao lado dele**.
+
+---
+
+## Capítulo I: A Várzea (1990–2007)
+
+Thales nasceu em 14 de março de 1990, em Itaguaré, uma cidade pequena do Vale do Ribeira, cercada de bananal, à beira de um rio cor de chá que enchia todo ano.
+
+A família morava no **Bairro da Várzea**, a parte baixa e barata, que alagava. A mãe, **Lúcia**, embalava banana numa cooperativa. O pai, **Ademar**, cortava cacho num bananal de Registro e voltava para casa com os ombros esfolados. Era um homem calado, que demonstrava carinho consertando coisas. Fez para o filho um carrinho de madeira com rodas de tampinha de garrafa, e Thales guardou esse carrinho até os vinte anos.
+
+Em fevereiro de 1997, o dique estourou de madrugada e a Várzea virou lama. Na manhã seguinte, Lúcia levou o filho para a escola, o único lugar seco do bairro, atravessando a várzea com lama até a cintura dele. Ela ia na frente e olhava para trás a cada três passos:
 
 *"Pisa onde eu pisei, Thales. Só onde eu pisei."*
 
-O menino obedeceu. Durante muitos anos, ele achou que essa era a lembrança mais importante da vida dele porque foi ali que aprendeu a seguir alguém por um caminho perigoso.
+Essa é a lembrança mais antiga e mais nítida que ele tem: o frio da lama, o peso das pernas, a voz da mãe abrindo caminho. Anos depois, quando escreveu a primeira página da sua filosofia, a imagem que saiu foi essa: uma pessoa caminhando na lama, procurando um Sol que mostre o caminho.
 
-Só aos 33 anos ele entendeu que a lembrança era importante por outro motivo. Naquela manhã de 1997, alguma coisa também estava pisando onde ele pisava.
+Em agosto daquele ano, Ademar foi para Guarulhos trabalhar em obra e prometeu mandar dinheiro. Mandou por uns meses. Depois as cartas ficaram mais finas, os telefonemas mais raros e, em 2001, pararam. Um primo disse que ele estava "com outra família". Lúcia desligou o orelhão, voltou para casa, fez arroz e nunca mais tocou no assunto.
 
-E ele ainda não entendeu tudo.
+Thales tinha onze anos. Foi quando aprendeu uma coisa que depois escreveria de outro jeito no caderno: as pessoas não somem de uma vez, somem por partes, e as partes que somem primeiro são as que você não percebe.
 
----
-
-## Capítulo I: Pisa onde eu pisei (1990–1997)
-
-Itaguaré não aparece em quase nenhum mapa turístico do Vale do Ribeira. É uma cidade de onze mil habitantes espalhada ao longo de um rio de água cor de chá, cercada por morros cobertos de bananal e por uma mata que insiste em voltar para onde foi derrubada. A estrada que leva até lá é asfaltada só na metade. Na outra metade, em época de chuva, ônibus atolam e as pessoas descem para empurrar.
-
-Thales nasceu ali em 14 de março de 1990, num quarto da Santa Casa que pingava do teto. A mãe, **Lúcia Garcias**, tinha vinte e sete anos e trabalhava embalando banana numa cooperativa. O pai, **Ademar Martins**, cortava cacho no bananal de um fazendeiro de Registro e voltava para casa com os ombros esfolados e cheiro de seiva. Era um homem calado, que expressava carinho consertando coisas: a cadeira bamba, o portão, o rádio. Nunca disse "eu te amo" ao filho, mas fez para ele um carrinho de madeira com rodas de tampinha de garrafa, e Thales guardou esse carrinho até os vinte anos.
-
-A casa ficava no **Bairro da Várzea**, a parte baixa da cidade, perto do rio. Era a área mais barata porque alagava. Todo mundo sabia disso, ninguém tinha opção e todo mundo morava lá mesmo assim. As casas tinham marcas de enchente na parede, como as linhas que as mães fazem no batente da porta para medir a altura dos filhos. Na casa dos Garcias Martins, a marca mais alta ficava a um metro e dez do chão, com uma data escrita a caneta: *fev/1997*.
-
-Acima da cidade, no alto do morro do Cambuci, ficava a **Serra Velha Mineração**. Por quase quarenta anos ela tirou chumbo e prata da montanha. As crianças da Várzea cresceram ouvindo o barulho das máquinas de madrugada e vendo caminhões descerem a estrada carregados de pedra cinza. Em 1995 a mineradora fechou. Os jornais da região disseram que o minério tinha ficado caro de extrair. Os trabalhadores receberam metade da rescisão. Os galpões ficaram abandonados, com janelas quebradas e cartazes de segurança desbotando ao sol: *"USE O EPI. SUA FAMÍLIA TE ESPERA."*
-
-Ninguém em Itaguaré perguntou para onde tinha ido o que sobrava do minério. A pergunta não existia. Era como perguntar para onde vai a água da chuva: para baixo, para a terra, para o rio.
-
-A enchente de fevereiro de 1997 veio numa madrugada de quinta para sexta. Choveu três dias seguidos nas cabeceiras, e o dique de terra que protegia a Várzea, construído pela prefeitura nos anos 80 e nunca reformado, estourou às **4h17 da manhã**. A hora ficou registrada porque o relógio de parede da padaria do Seu Toninho parou exatamente nesse minuto, quando a água entrou e alcançou o mecanismo. Ninguém nunca consertou o relógio. Ele continua pendurado lá até hoje, atrás da vitrine suja, marcando a mesma hora. Durante anos, a cidade inteira se referiu àquela madrugada como "a das quatro e dezessete".
-
-Thales acordou com a água entrando pelo vão da porta. Lembra do barulho antes de qualquer outra coisa: não era o rugido de uma onda, era um gorgolejo baixo e paciente, como se a casa estivesse sendo engolida devagar. Lembra da mãe levantando-o da cama e colocando-o em cima do guarda-roupa. Lembra do pai do lado de fora, com água pelo peito, puxando o colchão do vizinho, que tinha um filho de colo.
-
-Ao amanhecer, a água tinha baixado o suficiente para virar lama. Lúcia decidiu que o filho iria para a escola. Não era por teimosia. A escola municipal, no alto da rua do cemitério, era o único lugar seco do bairro, servia merenda e era abrigo. Ficar em casa era ficar no meio da lama sem comida.
-
-Então eles atravessaram a várzea. A lama chegava à cintura do menino e aos joelhos da mãe. Era fria de um jeito que ele nunca esqueceu, um frio que entrava pelos ossos e parecia vir de baixo, de muito fundo. Tinha cheiro de ferro, de folha podre e de outra coisa que ele não sabia nomear. Os pés afundavam e a lama segurava, como uma mão que não queria soltar. Cada passo era uma pequena luta para arrancar a perna do chão.
-
-*"Pisa onde eu pisei. Só onde eu pisei."*
-
-No meio do caminho, Thales olhou para trás. Ele sempre contou essa parte da mesma forma: viu as próprias pegadas na lama, pequenas e fundas, enchendo devagar de água marrom. Ao lado delas, achou ter visto outras marcas, maiores e sem forma definida, como se alguém tivesse afundado a mão fechada no barro. Ele piscou e as marcas tinham sumido, ou nunca tinham existido. Tinha sete anos, estava com frio e com medo, e a mãe o chamava.
-
-À tarde, Lúcia foi buscá-lo na escola. Voltaram pela várzea **pelo mesmo caminho**, pisando nas mesmas pegadas da manhã, porque eram as únicas que ela sabia que estavam firmes. *"Pisa onde a gente pisou."*
-
-Naquela noite, a casa ainda tinha lama no chão da cozinha, mas a mesa tinha sido colocada em cima de quatro tijolos. Dona Cida, a avó, veio dormir com eles, porque a casa dela, mais perto do rio, tinha ficado debaixo d'água. Ademar voltou molhado até o peito, sentou-se na cabeceira e riu pela primeira vez em dias: o rio tinha levado as botas dele, mas não tinha levado ninguém. Comeram arroz, ovo e farinha, os quatro, com a luz de uma vela, porque a energia não tinha voltado.
-
-Foi a última vez que os quatro comeram juntos naquela mesa. Em agosto, Ademar foi embora.
-
-Muitos anos depois, Lúcia diria ao filho que aquela noite foi a mais feliz da vida dela. Thales nunca entendeu. A casa estava cheia de lama, eles tinham perdido quase tudo, e ela estava feliz.
-
-Ele não contou para ninguém sobre as marcas ao lado das pegadas. Só voltou a pensar nisso vinte e seis anos depois.
-
----
-
-## Capítulo II: A fome que não é de comida (1997–2007)
-
-O pai foi embora em agosto daquele ano.
-
-Não houve briga. Depois da enchente, o fazendeiro de Registro cortou metade dos trabalhadores, e Ademar ficou sem serviço. Um primo dele morava em Guarulhos e trabalhava em obra. Disse que lá tinha emprego para quem quisesse, que pagavam por semana e que dava para mandar dinheiro. Ademar arrumou uma mochila e um saco de pão de queijo e se despediu do filho na rodoviária com um aperto de mão, como se ele já fosse adulto.
-
-*"Cuida da sua mãe."*
-
-Nos primeiros meses chegavam envelopes de dinheiro pelo correio e um telefonema por semana, no orelhão da esquina, sempre num domingo às oito da noite. Depois os envelopes ficaram mais finos e espaçados. Os telefonemas passaram a ser a cada quinze dias e depois uma vez por mês. No Natal de 1999 chegou um cartão com uma foto de Ademar na frente de um prédio em construção, de capacete amarelo e sorrindo. No verso estava escrito: *"Logo eu volto. Pai."*
-
-Ele não voltou. Em 2001 as ligações pararam. Lúcia telefonou para o primo de Guarulhos, que disse que Ademar tinha se mudado, que estava "com outra família" e que não sabia o endereço. Ela desligou e ficou quinze minutos parada na frente do orelhão. Depois voltou para casa, fez arroz e não tocou mais no assunto.
-
-Ela também nunca tirou a cadeira da cabeceira. A mesa continuou com quatro lugares por muitos anos, mesmo quando só três pessoas moravam na casa, e depois só duas.
-
-Thales tinha onze anos. Foi quando ele aprendeu algo que mais tarde escreveria no caderno de outro jeito: as pessoas não somem de uma vez. Elas somem por partes, e as partes que somem primeiro são as que você não percebe.
-
-Quem ocupou o espaço deixado pelo pai foram duas mulheres.
-
-A primeira foi a avó, **Dona Cida**, mãe de Lúcia. Ela veio morar com eles em 1998, porque a casa dela nunca mais ficou habitável depois da enchente. Era uma mulher pequena, de mãos enormes e calejadas, que rezava o terço todas as noites às nove em ponto, ajoelhada no chão de cimento, mesmo com reumatismo. Thales às vezes se ajoelhava junto, não por fé, mas porque gostava do ritmo das palavras e do silêncio que vinha depois.
-
-Um dia, aos treze anos, achando-se muito inteligente, ele perguntou:
-
-*"Vó, e se Deus não existir?"*
-
-Dona Cida não ficou brava. Terminou a ave-maria que estava rezando, guardou o terço no bolso do avental e olhou para ele com uma calma que ele nunca esqueceu.
+Quem ocupou o espaço foram duas mulheres. Uma foi a avó, **Dona Cida**, que veio morar com eles e rezava o terço toda noite às nove, ajoelhada no cimento. Quando o neto, aos treze anos, perguntou o que ela faria se Deus não existisse, ela respondeu sem se irritar:
 
 *"Então eu passei a vida conversando com o escuro, e o escuro me ajudou a criar sua mãe sozinha. Não foi um mau negócio."*
 
-Ele não soube o que responder. Anos depois, quando escreveu a seção sobre fé e conhecimento no caderno, pensou nela a cada linha.
+A outra foi a **professora Neide**, que emprestava livros para ele, um por mês, às vezes dois. Foi ela quem contou a história de Tales de Mileto, o filósofo que caiu num poço porque andava olhando as estrelas.
 
-A segunda foi a **professora Neide Albuquerque**, de Língua Portuguesa, na escola municipal do alto da rua do cemitério. Ela tinha vindo de Santos, prestou concurso para "ganhar experiência" e ficou dezenove anos. Percebeu que Thales lia as placas de ônibus em voz alta, lia as bulas de remédio da avó e lia o jornal velho que embrulhava as bananas na cooperativa. Um dia o chamou depois da aula e entregou a ele um livro com a capa rasgada: *O Mundo de Sofia*.
+*"Você tem o nome de quem olha pro céu, Thales. Só não esquece do chão."*
 
-*"Devolve quando terminar. E depois eu te dou outro."*
+As crianças da Várzea iam mal na escola de um jeito estranho. Esqueciam o que liam, tinham dor de cabeça e um cansaço que não combinava com a idade. A cidade chamava isso de "fraqueza da roça". Thales era uma delas: lia a mesma página quatro vezes, anotava tudo, apagava e reescrevia. Foi daí que nasceu o hábito que nunca perdeu, o de **escrever a lápis**. Caneta, para ele, era luxo de quem tem certeza.
 
-Foi assim por seis anos: um livro por mês, às vezes dois. Ela não tinha muitos livros, então às vezes o que emprestava era complicado demais para um garoto de doze anos, e Thales lia mesmo assim, sem entender metade, guardando as palavras difíceis para procurar depois no dicionário da escola.
-
-Foi Neide quem contou para ele a história de **Tales de Mileto**. Disse que ele foi o primeiro filósofo do Ocidente, o homem que perguntou do que o mundo era feito e respondeu que era de água. E contou a anedota que Platão registrou: Tales andava à noite olhando as estrelas, distraído, e caiu num poço. Uma serva que passava riu dele e disse que ele queria saber o que acontecia no céu, mas não enxergava o que estava debaixo dos próprios pés.
-
-*"Tem gente que usa essa história pra rir dos filósofos"*, disse Neide. *"Eu acho que ela serve pra outra coisa. Serve pra lembrar que olhar pra cima é importante, mas que alguém tem que olhar pro chão também. Você tem o nome de quem olha pro céu, Thales. Só não esquece do chão."*
-
-Ele tinha onze anos e achou aquilo a coisa mais bonita que já tinha ouvido. Escreveu a frase dela na contracapa de um caderno escolar. Foi a primeira coisa que escreveu num caderno que não era dever de casa.
-
-Havia, porém, algo errado na escola, e Neide também percebia.
-
-As crianças da Várzea iam pior que as outras. Não era por preguiça: elas se esforçavam, faziam a lição e prestavam atenção, mas esqueciam. Liam um parágrafo e no fim já não lembravam do começo. Tinham dor de cabeça, dor de barriga e um cansaço que não combinava com a idade. Algumas tinham tremores leves nas mãos. Um colega de Thales, **Joel**, filho de um ex-funcionário da mineradora, desmaiava às vezes no recreio, sem motivo.
-
-Na cidade, chamavam aquilo de *"fraqueza da roça"*. Era coisa de criança pobre, que comia mal, dormia mal e brincava descalça na lama. As mães davam fortificante e chá de boldo. Os médicos do posto, que mudavam a cada seis meses, pediam exame de verme e receitavam sulfato ferroso.
-
-Thales era uma das crianças cansadas. Ele lembra de dias em que lia a mesma página quatro vezes e de dias em que a cabeça parecia cheia de algodão molhado. Ele compensava com teimosia: lia mais devagar, anotava tudo e relia. Foi aí que nasceu o hábito de escrever a lápis. Ele errava tanto, esquecia tanto e precisava reescrever tanto que a caneta virou um luxo de quem tem certeza.
-
-Anos depois ele entenderia que o cansaço tinha nome químico, que a lama fria da enchente tinha gosto de metal por um motivo e que a fome que sentia não era só de comida. Era o que ele chamaria de *fome intelectual*: o mundo era maior do que Itaguaré e ele não tinha como chegar até ele.
-
-Em 2007, com dezessete anos, prestou o ENEM numa escola de Registro, depois de duas horas de ônibus. Tirou uma nota que surpreendeu até Neide. Ela foi a primeira pessoa a quem ele contou e chorou na frente dele, coisa que ele nunca tinha visto um professor fazer.
-
-Dona Cida morreu em 2015, quando Thales já morava em São Paulo. Ele chegou a Itaguaré a tempo do enterro, mas não da despedida. No velório, a mãe entregou a ele o terço da avó. Ele o guarda até hoje, embora não reze.
+Em 2007, prestou o ENEM em Registro, depois de duas horas de ônibus, e tirou uma nota que fez a professora Neide chorar.
 
 ---
 
-## Capítulo III: São Paulo e a primeira luz (2008–2019)
+## Capítulo II: São Paulo (2008–2012)
 
-Thales passou numa faculdade particular de Jornalismo em São Paulo com bolsa integral do ProUni. Lúcia vendeu a geladeira para pagar a passagem e o primeiro mês de aluguel de um quarto numa pensão no Jabaquara, dividido com dois estudantes de Engenharia que roncavam.
+Ele passou em Jornalismo numa faculdade particular de São Paulo com bolsa integral do ProUni. Lúcia vendeu a geladeira para pagar a passagem e o primeiro mês de um quarto de pensão no Jabaquara.
 
-Os primeiros quatro anos foram a época que ele depois chamaria de *"a fase em que eu sabia o que queria e não tinha corpo pra isso"*.
+De dia, estudava. Das dez da noite às quatro da manhã, trabalhava num call center de cobrança na Avenida Paulista, ouvindo gente chorar porque não tinha como pagar e repetindo um roteiro do qual era proibido sair. Dormia três horas por noite e emagreceu onze quilos no primeiro ano. Às vezes passava vinte minutos olhando para o quadro sem registrar nada.
 
-De dia, ia à faculdade. Das dez da noite às quatro da manhã, trabalhava num call center de cobrança de cartão de crédito na Avenida Paulista, ligando para pessoas que deviam dinheiro e ouvindo pessoas chorarem, xingarem e explicarem que o filho estava doente, que tinham perdido o emprego, que não tinham como pagar. Ele tinha um roteiro na tela e era proibido sair dele. *"Senhor, compreendo sua situação, mas preciso informar que o débito está sujeito a negativação."* Ele repetia a frase quarenta, cinquenta vezes por noite.
+Foi nessa época que começou a pensar na diferença entre ter capacidade e ter condições. Ele entendia tudo o que lia, mas o corpo não acompanhava. *"A gente tá fazendo a mesma prova"*, pensava, olhando os colegas que dormiam oito horas, *"mas não tá na mesma corrida."*
 
-Dormia três ou quatro horas, comia pão com mortadela e café de máquina e emagreceu onze quilos no primeiro ano. Às vezes dormia em pé no metrô. Às vezes, numa aula de Teoria da Comunicação, percebia que tinha passado vinte minutos olhando para o quadro sem registrar nada, e o algodão molhado de Itaguaré voltava.
+Em junho de 2013, já formado e trabalhando, cobriu os protestos e, sentado no meio-fio da Consolação com os olhos ardendo de gás, escreveu duas páginas de uma vez num caderno. O título era *"A lama e o Sol"*. No alto, quase de brincadeira, anotou: *Versão 0.1*.
 
-Foi nessa época que ele começou a pensar de forma organizada sobre o que mais tarde viraria a dimensão biológica da filosofia. Ele entendia perfeitamente o que lia, tinha capacidade e tinha vontade, mas o corpo não acompanhava. A fome, o sono e o cansaço eram uma lama de outro tipo. Ele olhava os colegas que moravam com os pais em Moema, dormiam oito horas e tinham tempo de ler por prazer, e não sentia inveja, sentia uma espécie de vertigem. *"A gente tá fazendo a mesma prova"*, pensava, *"mas não tá na mesma corrida."*
-
-Em junho de 2013 vieram os protestos. Thales estava no sexto semestre e cobriu as manifestações como freelancer para um site pequeno que pagava cinquenta reais por matéria. Viu a Avenida Paulista lotada, bombas de gás e gente de todo tipo gritando por coisas diferentes ao mesmo tempo. Numa noite, sentado no meio-fio da Consolação, com os olhos ardendo de gás, abriu o caderno e escreveu duas páginas de uma vez, sem parar.
-
-O título era *"A lama e o Sol"*. Era meio poema, meio manifesto. Falava de pessoas que nascem na lama e passam a vida procurando um Sol que as ajude a enxergar o caminho. Dizia que cada pessoa constrói seu Sol com o que tem à mão, que ninguém escolhe o lugar onde nasce, só a direção para onde olha, e que a sociedade deveria limpar a lama, não escolher o Sol de ninguém. No alto da página ele escreveu, quase de brincadeira: *Versão 0.1*.
-
-Hoje ele acha esse texto ingênuo e cheio de frases de efeito. Mesmo assim, nunca arrancou as páginas. Diz que um rascunho só é honesto se a gente guarda os erros.
-
-Ele se formou em 2012 e entrou como repórter trainee num jornal grande de São Paulo. Passou sete anos lá, primeiro no plantão, cobrindo incêndio, acidente e tiroteio, depois na editoria de Cidades e por fim na de Política. Aprendeu o ofício do jeito duro: checar três vezes, nunca confiar numa fonte só, gravar tudo, desconfiar de documento bonito demais e ouvir o outro lado mesmo quando o outro lado mentia.
-
-Aprendeu também os limites do jornal grande. Matérias sobre anunciantes eram "reavaliadas". Pautas sobre periferia caíam porque "não davam audiência". Uma investigação dele sobre desvio em merenda escolar foi cortada pela metade porque envolvia um deputado amigo de um diretor. Ele não se revoltou, apenas foi juntando essas coisas.
-
-Em 2017, num seminário sobre jornalismo de dados, conheceu **Marta Lindgren**. Ela tinha uns cinquenta e poucos anos, cabelo branco cortado curto e voz de quem já foi ameaçada de morte e achou isso tedioso. Tinha passado vinte anos em redações grandes e saiu para fundar a **Agência Fresta**, um veículo independente de jornalismo investigativo bancado por doações de leitores e por algumas fundações.
-
-*"Fresta"*, ela explicou na primeira conversa, *"porque a gente não tem dinheiro pra abrir porta. Mas uma fresta já deixa entrar luz."*
-
-Em 2019, depois de mais um corte numa reportagem, ele pediu demissão do jornal grande e foi trabalhar com Marta, ganhando quarenta por cento menos. Ele dizia que não estava fazendo sacrifício, que estava mudando de Sol.
-
-Nessa época, o Rascunho Central de Thales cabia numa frase escrita na primeira página do caderno, a caneta, porque disso ele tinha certeza:
-
-**A verdade publicada liberta.**
+Foi o começo da **Filosofia do Rascunho**. Ele nunca arrancou essas páginas, mesmo achando o texto ingênuo. Diz que um rascunho só é honesto se a gente guarda os erros.
 
 ---
 
-## Capítulo IV: O e-mail da Dra. Helena (2019–2020)
+## Capítulo III: O plantão (2012–2016)
 
-O e-mail chegou numa segunda-feira de abril de 2019, na caixa genérica da Fresta, aquela que recebe teoria da conspiração, ameaça e pedido de emprego. O assunto era: *"Crianças de Itaguaré — por favor, alguém leia isso."*
+O primeiro emprego de Thales num jornal grande de São Paulo foi o pior que um repórter iniciante pode ter, e foi o que formou o homem que ele é hoje: o **plantão policial da madrugada**.
 
-A remetente era **Helena Paiva**, pediatra de trinta e oito anos, contratada havia dois anos pelo posto de saúde do Bairro da Várzea. Ela escrevia com a urgência de quem já tinha tentado de tudo. Tinha notado o mesmo padrão que a professora Neide notara vinte anos antes: crianças cansadas, com dificuldade de aprendizagem, dores abdominais, irritabilidade e anemia que não respondia ao sulfato ferroso. Mas ela era médica e teve uma suspeita que ninguém tinha tido. Pediu, com o próprio dinheiro, **dosagem de chumbo no sangue** de quarenta e três crianças da Várzea.
+O trabalho era simples de explicar. Ele ficava numa sala com um rádio da polícia, um computador velho e um celular da empresa. Quando alguém morria de forma violenta em São Paulo durante a noite, ele ia até o lugar com um fotógrafo, anotava o que conseguia e voltava para escrever uma nota de quatro parágrafos antes das seis da manhã.
 
-Vinte e sete deram acima do limite de referência, algumas muito acima. Uma delas, um menino de sete anos, tinha um nível que, segundo a literatura, já causa dano neurológico permanente.
+Em quatro anos, Thales esteve diante de mais de **trezentos corpos**. Ele sabe o número exato porque anotou todos.
 
-Helena levou os resultados à Secretaria Municipal de Saúde, que disse que "faltava metodologia". Levou à regional de saúde, que disse que "ia avaliar". Mandou para a CETESB e não teve resposta. Escreveu para três jornais grandes, e nenhum respondeu. Escreveu para a Fresta porque viu uma matéria deles sobre contaminação em Cubatão.
+O primeiro foi um menino de uns catorze anos, de bermuda e chinelo, caído de lado numa viela de Paraisópolis, com um buraco pequeno e escuro debaixo do queixo. Thales vomitou atrás de uma Kombi. O fotógrafo, um veterano chamado **Seu Ednaldo**, esperou ele terminar, ofereceu um chiclete de hortelã e disse:
 
-Marta leu o e-mail e encaminhou para Thales com uma única linha: *"Não é a sua cidade?"*
+*"Vomita hoje, que é o certo. O dia que você parar de vomitar, aí você se preocupa."*
 
-Ele leu três vezes. Na terceira, sentiu de novo o frio da lama de 1997, subindo pelos pés.
+Thales parou de vomitar no terceiro mês, e se preocupou.
 
-Thales passou **dezesseis meses** nessa investigação. Foi a coisa mais longa, difícil e meticulosa que já tinha feito.
+Ele viu de tudo. Corpos em córrego, inchados e cinzentos, que os bombeiros puxavam com gancho. Um homem atropelado no Rodoanel, espalhado por quarenta metros de asfalto, e um policial jovem recolhendo as partes com luvas de cozinha. Uma mulher morta pelo marido numa cozinha de Itaquera, ainda de avental, com uma panela de feijão queimando no fogão porque ninguém tinha lembrado de desligar. Duas crianças num carro que caiu na represa Billings, encontradas ainda de cinto. Ele aprendeu o cheiro de cada tipo de morte: o de sangue fresco, que lembra moeda; o de corpo de dois dias, que fica na roupa e não sai na primeira lavagem; o de corpo queimado, que é doce de um jeito que ele nunca conseguiu explicar para ninguém.
 
-Foi a Itaguaré onze vezes. Ficava na casa da mãe, que não entendia direito o que ele estava fazendo, mas fazia feijão toda vez. Conversou com Helena por horas na cozinha do posto, depois do expediente. Ela era direta, ansiosa e não tinha nenhuma paciência para meias palavras. Os dois brigaram várias vezes: ela queria publicar logo e ele queria checar tudo de novo.
+Mas o que mais o marcou não foram os corpos. Foi o que acontecia **depois** deles.
 
-*"Cada mês que você passa checando é um mês de chumbo no sangue dessas crianças"*, ela disse uma vez.
+A nota de quatro parágrafos saía às seis da manhã com a idade, o bairro e a frase de sempre: *"a polícia investiga o caso"*. Às sete, outra notícia ocupava o lugar. No dia seguinte, ninguém lembrava. Em uma semana, nem a polícia lembrava. Muitas daquelas pessoas nem nome tinham na nota, porque estavam sem documento: viravam *"homem não identificado, aparentando 30 anos"*. Thales escrevia essa frase e sentia que estava ajudando a enterrar alguém de novo.
 
-*"Cada erro que eu publicar é uma desculpa pra eles não fazerem nada"*, ele respondeu. *"Se a gente errar uma vírgula, vão usar a vírgula pra enterrar o resto."*
+Foi aí que ele começou **a lista**.
 
-Ele tinha razão, e isso ia voltar contra ele de um jeito que nenhum dos dois imaginava.
+Num caderno separado, de capa preta, ele anotava cada morto que via. Nome, se tivesse. Se não tivesse, um detalhe: *"menino de chinelo azul, Paraisópolis, 14/03/2013"*. *"Mulher de avental, Itaquera, 02/07/2014"*. *"Homem com tatuagem de carpa no braço, Rodoanel, 19/11/2014"*. Ele não sabia direito por que fazia isso. Sabia só que, se ninguém anotasse, aquelas pessoas iam simplesmente parar de ter existido.
 
-Ele foi atrás dos ex-funcionários da Serra Velha. A maioria estava morta, doente ou com medo. Um deles, **Seu Benedito Prado**, setenta e quatro anos, ex-operador de britador, recebeu Thales numa varanda com cheiro de fumo de corda e falou durante três horas. Contou que entre 1993 e 1995, quando a mineradora já sabia que ia fechar, os caminhões pararam de levar o rejeito para a barragem de contenção no alto do morro. A barragem estava quase cheia e reforçá-la custava caro. Então os caminhões passaram a descer de noite e despejar o rejeito **na várzea**, perto do rio, e depois cobrir com terra.
+A lista tem trezentos e catorze nomes e detalhes. Ele ainda a carrega. Nunca mostrou a ninguém.
 
-*"A gente sabia que não podia. Mas o encarregado dizia que era terra. Que era só terra. E a gente tinha filho pra criar."*
+O plantão também ensinou a Thales o que ele faz melhor até hoje: **conversar com quem não quer conversar**. Mães que acabaram de perder um filho, policiais desconfiados, testemunhas com medo, vizinhos que "não viram nada". Ele aprendeu a chegar devagar, a não fazer pergunta nenhuma nos primeiros minutos, a oferecer água e a esperar. Aprendeu que o silêncio faz as pessoas falarem mais do que qualquer pergunta. Aprendeu que quem está com medo quase sempre quer falar e só precisa que alguém mostre que vai ouvir de verdade.
 
-Seu Benedito apontou com o dedo torto para o horizonte, na direção da Várzea, na direção da casa onde Thales cresceu.
+Seu Ednaldo, o fotógrafo, dizia que Thales tinha "cara de padre". As pessoas contavam coisas a ele que não contavam nem para a polícia.
 
-*"Ali. Vocês moravam em cima."*
-
-Thales foi atrás de documentos e conseguiu, pela Lei de Acesso à Informação, um **laudo técnico de 2003**, encomendado pela própria prefeitura depois de uma denúncia anônima. O laudo apontava concentração de chumbo no solo da várzea dezenas de vezes acima do permitido e recomendava isolamento da área, retirada do solo contaminado e monitoramento de saúde da população. O laudo foi carimbado, protocolado e arquivado. Em dezesseis anos, nenhuma das recomendações foi cumprida. O prefeito da época, **Osmar Prestes**, hoje vereador, disse em entrevista que "não lembrava".
-
-Thales contratou, com dinheiro da Fresta e de uma vaquinha, um laboratório independente da Unicamp para coletar amostras de solo e sedimento. Os resultados confirmaram o laudo de 2003 e mostraram que a contaminação tinha se espalhado com as enchentes. Cada vez que o rio subia, a água revolvia a lama e espalhava o chumbo pela Várzea, para dentro das casas, dos quintais e das hortas.
-
-A enchente de 1997, a madrugada das quatro e dezessete, tinha espalhado mais rejeito do que qualquer outra. As crianças que atravessaram a várzea naquela manhã a caminho da escola, com lama até a cintura, tinham atravessado um campo de veneno.
-
-Thales foi uma delas.
-
-Ele fez o exame em São Paulo, num laboratório particular. O nível dele estava dentro do limite. O médico explicou por quê, sem nenhuma pressa, como quem explica o tempo:
-
-*"O chumbo não vai embora. Ele sai do sangue e entra nos ossos. Fica guardado lá. Trinta, quarenta anos. O seu corpo ainda tem a enchente dentro dele, só que em outro lugar."*
-
-Thales saiu do consultório, sentou-se num banco da Avenida Paulista e ficou quarenta minutos olhando os pés.
-
-O algodão molhado, as páginas lidas quatro vezes, o hábito de escrever a lápis porque errava demais: tudo tinha nome. Ele pensou no Joel, que desmaiava no recreio e que tinha morrido em 2016, num acidente de moto, aos vinte e seis anos. Pensou nas crianças de 2019, com os mesmos sintomas dele, vinte anos depois.
-
-Ele decidiu ali que a matéria ia sair, e que ia sair perfeita.
+Em 2016, Thales pediu para sair do plantão. O editor achou que era o cansaço. Não era. Era uma pergunta que ele não conseguia mais deixar de fazer: **para onde vão as pessoas que ninguém procura?**
 
 ---
 
-## Capítulo V: *A Lama Lembra* (agosto de 2020)
+## Capítulo IV: Sem Nome (2016–2019)
 
-A série foi publicada em cinco partes, uma por dia, de 17 a 21 de agosto de 2020, no meio da pandemia, com o país trancado em casa.
+A resposta começou no **Instituto Médico Legal** e terminou num cemitério de Perus, na zona norte de São Paulo.
 
-O título foi ideia de Thales. Na reunião de pauta, Marta achou poético demais, e ele defendeu:
+Thales passou três anos investigando o caminho que um corpo percorre quando ninguém aparece para buscá-lo. Ele descobriu que em São Paulo, todo ano, centenas de pessoas morrem e são enterradas como **indigentes**, sem nome, em quadras de cemitério público onde ninguém visita. E descobriu uma coisa muito pior: **boa parte delas tinha nome**.
 
-*"O chumbo não some. Fica no solo por séculos. A cidade esqueceu, a prefeitura esqueceu, a empresa fingiu que esqueceu. Mas a lama lembra. Ela guarda tudo."*
+Elas tinham documento no bolso, digital cadastrada ou família procurando. Mas a informação se perdia no caminho, entre o hospital, a delegacia, o IML e o serviço funerário. Um papel não era enviado, um ofício ficava numa gaveta, um funcionário escrevia "desconhecido" porque era mais rápido. A pessoa era enterrada como ninguém, e a família continuava procurando um vivo durante anos, colando cartazes em poste, ligando para hospital, sonhando com a volta. A pessoa estava a trinta quilômetros de distância, debaixo de uma placa com um número.
 
-Marta aprovou.
+Thales conheceu dezenas dessas famílias. Sentou na cozinha delas, ouviu, ofereceu água e esperou. Viu mães que guardavam o quarto do filho intacto havia oito anos, com a cama feita. Viu um pai que tinha ido a todos os hospitais do estado de São Paulo, um por um, com uma foto plastificada do filho no bolso da camisa.
 
-As cinco partes eram:
+Ele cruzou dados durante meses: boletins de ocorrência, registros do IML e livros de sepultamento do cemitério, digitados à mão por ele numa planilha que chegou a onze mil linhas. Encontrou quarenta e três pessoas enterradas como indigentes que tinham nome, documento e família procurando.
 
-1. **"O que a cidade chamava de fraqueza"**, sobre as crianças, os sintomas e os exames de Helena.
-2. **"Os caminhões da madrugada"**, sobre o depoimento de Seu Benedito e o despejo ilegal.
-3. **"O laudo na gaveta"**, sobre o documento de 2003 e o silêncio da prefeitura.
-4. **"A enchente que espalhou o veneno"**, sobre como as cheias, principalmente a de 1997, levaram o chumbo para dentro das casas.
-5. **"A lama em mim"**, um texto em primeira pessoa no qual Thales contava que tinha crescido na Várzea, que tinha atravessado a enchente de 1997 e que também carregava chumbo nos ossos.
+Ele acompanhou as **exumações**. Foi a primeira vez que viu um corpo depois de anos debaixo da terra: ossos escurecidos, roupa desfeita, um tênis ainda inteiro, um terço de plástico enrolado no osso do pulso. Viu uma mãe, **Dona Cícera**, reconhecer o filho pela obturação de um dente. Ela não chorou na hora. Pegou o crânio com as duas mãos, com um cuidado que Thales nunca esqueceu, e disse: *"Oi, meu amor. Desculpa a demora."*
 
-A primeira parte foi a mais difícil de escrever. Thales não queria que as crianças virassem estatística. Com autorização das famílias, uma por uma, assinada no papel na mesa da cozinha de cada casa, a série publicou **os nomes delas**: o primeiro nome e a idade, nada mais. *Yasmin, 9 anos. Kauã, 5 anos. Pedro Henrique, 7 anos. Maria Eduarda, 11 anos.* Ao todo, entre crianças, pais, mães, avós e ex-funcionários da mina, **cento e cinquenta e cinco pessoas** tiveram o nome escrito na série. Thales fez questão disso. Dizia que um número não tem rosto, mas um nome tem.
+Naquela noite, ele chegou em casa e chorou como não chorava desde os sete anos.
 
-A quinta parte foi a mais lida. Foi também a que, mais tarde, mais o assombrou.
+A série se chamou ***Sem Nome*** e foi publicada em 2019 pela **Agência Fresta**, um veículo independente de jornalismo investigativo comandado por **Marta Lindgren**, uma editora dura, de cabelo branco curto, que tinha deixado as redações grandes para fazer o tipo de jornalismo que elas não faziam mais. Thales tinha ido trabalhar com ela naquele ano, ganhando quarenta por cento menos.
 
-A repercussão foi imediata. A matéria foi reproduzida por jornais grandes, pelos mesmos que não tinham respondido ao e-mail de Helena. O Ministério Público abriu inquérito em duas semanas. A CETESB mandou técnicos. A Serra Velha, que agora era uma holding sediada em São Paulo com outro nome e os mesmos acionistas, divulgou uma nota dizendo que "as operações sempre seguiram a legislação vigente".
+*"Fresta"*, Marta explicou no primeiro dia, *"porque a gente não tem dinheiro pra abrir porta. Mas uma fresta já deixa entrar luz."*
 
-Em novembro, o MP entrou com uma **ação civil pública**. Thales leu a petição inteira, de madrugada, e um pedido ficou na cabeça dele por muito tempo: o MP exigia a **retirada de todo o solo contaminado da Várzea até três metros de profundidade**. Quarenta mil metros cúbicos de lama, raspados, carregados em caminhões e levados para um aterro de resíduos perigosos em outra cidade.
+*Sem Nome* fez barulho. A Defensoria Pública abriu um mutirão, e o serviço funerário mudou dois procedimentos. Trinta e uma famílias puderam enterrar seus mortos com nome. Thales ganhou um prêmio pequeno, que não pagou o aluguel de dois meses.
 
-Thales imaginou a cena: a várzea da infância dele aberta como uma ferida, as escavadeiras arrancando o chão onde ele tinha brincado, os caminhões subindo a mesma estrada por onde outros caminhões tinham descido de madrugada em 1993, agora no sentido contrário, levando a lama embora.
+Mas, cruzando os dados, ele encontrou uma coisa que não coube na série. Era um padrão que não tinha a ver com erro de cartório.
 
-Achou aquilo a imagem mais bonita de justiça que já tinha visto. Anotou no caderno: *"A lama vai embora de Itaguaré."*
+Havia **um grupo de corpos** que não vinha de hospital nem de acidente. Eram homens jovens, quase todos entre dezesseis e vinte e cinco anos, quase todos da mesma região do extremo norte da Grande São Paulo, encontrados em estado avançado de decomposição em terrenos baldios e matas. A causa da morte era quase sempre "indeterminada". Eram enterrados como indigentes depressa, sem perguntas. Em vários laudos aparecia o mesmo detalhe técnico, quase escondido: **"presença de cal virgem sobre o corpo"**.
 
-Em dezembro de 2020, a série ganhou um prêmio nacional de jornalismo investigativo. Thales subiu ao palco num auditório quase vazio por causa da pandemia, de máscara, e fez um discurso de dois minutos. A última frase foi:
+Alguém estava matando e enterrando gente com cal, para acelerar a decomposição e apagar o rosto. Fazia isso havia anos, e o Estado completava o serviço enterrando essas pessoas como ninguém.
 
-*"A verdade não limpa a lama. Mas mostra onde ela está. E isso já é o começo de um caminho."*
-
-Lúcia assistiu à transmissão pelo celular, na cozinha de Itaguaré, e chorou. Helena mandou uma mensagem: *"Agora sim. Agora vão ter que fazer alguma coisa."* A professora Neide, já aposentada, ligou e não conseguiu falar direito.
-
-Foi a melhor noite da vida de Thales. Ele ainda acreditava que a verdade publicada libertava.
+Thales anotou os nomes que conseguiu na lista de capa preta. E começou a procurar quem estava fazendo aquilo.
 
 ---
 
-## Capítulo VI: O Profeta do Ribeira (2020–2022)
+## Capítulo V: Dona Marinalva (2019–2021)
 
-O primeiro vídeo de **Caio Vasques** sobre Itaguaré saiu em 2 de setembro de 2020, duas semanas depois da série.
+Quem o levou até lá foi uma mulher de sessenta anos, baixinha, que vendia bolo de pote na porta de uma escola em Franco da Rocha.
 
-Caio tinha trinta e um anos e se apresentava como "pesquisador independente". Tinha começado com vídeos de autoajuda, passou para "segredos que o governo esconde" e, na pandemia, explodiu de seguidores falando sobre tudo: vacina, chip, 5G, elite global. O perfil se chamava *@acordaribeira* porque ele era de Registro, a cidade vizinha. Tinha um rosto bonito, voz grave e uma habilidade rara de falar com uma convicção absoluta sobre coisas que não entendia.
+**Dona Marinalva** procurava o filho, **Jonathan**, havia cinco anos. Ele tinha dezenove anos quando sumiu, numa sexta-feira de 2014, depois de sair para comprar pão. Ela tinha uma pasta de plástico azul com tudo o que tinha conseguido juntar: boletins de ocorrência, cartazes, recortes de jornal e uma lista escrita à mão com os nomes de outros onze rapazes do bairro que tinham sumido do mesmo jeito entre 2012 e 2018. Ela leu *Sem Nome*, foi até a Fresta de ônibus e trem, duas horas de viagem, e esperou Thales na recepção por quatro horas.
 
-O vídeo começava com uma imagem da série da Fresta e a voz dele, sussurrada:
+*"Meu filho é um desses seus"*, ela disse, colocando a pasta na mesa. *"Eu sei que é. Me ajuda a achar ele."*
 
-*"O que eles NÃO te contaram sobre a lama de Itaguaré."*
+Thales passou os dois anos seguintes, com a pandemia no meio, reconstruindo a vida e a morte daqueles rapazes. Descobriu que o que ligava todos era um grupo que o bairro chamava em voz baixa de **"os da cal"**. Eram policiais da ativa e da reserva e alguns seguranças particulares, que funcionavam como um esquadrão de extermínio. Cobravam taxa do comércio, "limpavam" o bairro de quem consideravam problema e faziam sumir os corpos. Quem mandava era um tenente reformado da PM chamado **Saraiva**, que tinha uma empresa de segurança, era respeitado no bairro e ia à missa todo domingo.
 
-Durante onze minutos, Caio pegava fatos reais da reportagem e os torcia até ficarem irreconhecíveis. O chumbo virou "um metal que a elite usa em experimentos". As crianças cansadas viraram crianças que estavam "secando por dentro". O laudo engavetado virou prova de que "eles sempre souberam e deixaram acontecer de propósito". No final, ele afirmava que conhecia moradores que diziam que a lama **se mexia à noite** e que aquela terra era *"amaldiçoada"*.
+As famílias sabiam e ninguém falava. Thales entendeu por quê quando o primeiro carro sem placa começou a passar devagar na frente da Fresta.
 
-Nada disso estava na reportagem, e nada disso era verdade quando ele disse.
+A virada veio em julho de 2021, com **Wesley**.
 
-O vídeo teve quatro milhões de visualizações em uma semana. Depois vieram outros: *"Itaguaré parte 2: as crianças de chumbo"*, *"Fui até a lama amaldiçoada (QUASE NÃO VOLTEI)"*, *"Por que a Fresta está escondendo o resto da história?"*. Outros perfis copiaram, fizeram cortes, colocaram música de terror e legendas em vermelho. O trecho mais usado era sempre o mesmo, tirado da quinta parte: a frase de Lúcia, *"pisa onde eu pisei"*, lida por uma voz de inteligência artificial sobre imagens de lama.
+Wesley tinha vinte e dois anos e tinha sido "olheiro" do grupo desde os dezesseis: o garoto que avisa quando a viatura vem, que leva recado e que vigia. Ele procurou Thales porque estava com medo. Tinha visto coisas demais e sabia o que acontecia com quem sabia demais. Encontrou o jornalista três vezes, sempre em lugares diferentes, sempre olhando para trás.
 
-Thales tentou responder. Escreveu um texto na Fresta explicando o que era verdade e o que era invenção, gravou vídeos e deu entrevistas. Ninguém assistiu. A verdade dele era longa, cheia de nuances, com gráficos e documentos. A mentira de Caio cabia em quinze segundos e dava medo, e medo se espalha mais rápido que qualquer outra coisa.
+Na terceira vez, numa padaria em Caieiras, Wesley contou o que Thales passou dois anos procurando: **para onde os corpos iam**.
 
-Em 2022, ano de eleição, o caso entrou na política. Um lado usava Itaguaré como símbolo de abandono do Estado e corrupção local. O outro dizia que era invenção da "imprensa militante" para atacar o prefeito aliado. Thales via as pessoas comentando nas redes e percebia que ninguém tinha lido a matéria. As pessoas defendiam ou atacavam Itaguaré como quem defende ou ataca um time de futebol. Viu eleitores defendendo Osmar Prestes, o homem que tinha engavetado o laudo, porque ele "era do lado certo". Viu outros usando as crianças contaminadas como munição e nunca perguntando por elas de novo.
+*"Tem um lugar na serra. Um hospital velho, abandonado, desses de louco. Ninguém vai lá. Diz que é mal-assombrado. Eles levam lá, jogam cal e enterram no pátio de trás. Faz tempo. Desde antes de mim."*
 
-Foi nessa época que ele escreveu a **Versão 0.2** do caderno: as seções sobre política, democracia e a analogia dos **bezerros de ouro**. Ele escreveu de madrugada, com raiva, e no fim sublinhou duas vezes a frase:
+*"Quantos?"*
 
-*"O cidadão escolhe seu representante, mas não deve entregar a ele os olhos com que enxerga o mundo."*
+Wesley olhou para a xícara de café por muito tempo.
 
-Enquanto isso, Itaguaré afundava de um jeito que nenhuma reportagem tinha previsto.
+*"Eu não sei, moço. Muitos. Mas não é só os deles que tão lá."*
 
-A cidade virou piada nacional. Moradores que procuravam emprego em Registro, Sorocaba ou São Paulo eram recusados quando diziam de onde vinham. Uma fábrica desistiu de abrir uma unidade lá. O turismo de cachoeira, que era pequeno mas existia, sumiu. Crianças de Itaguaré matriculadas na escola estadual de Registro eram chamadas de *"filhos do chumbo"*, *"zumbis"*, *"os amaldiçoados"*. Uma menina de dez anos foi trancada no banheiro por colegas que disseram que ela "ia contaminar todo mundo".
+*"Como assim?"*
 
-E a ação civil pública, a que ia levar a lama embora, andava devagar, mas andava. Audiência, perícia, recurso, nova audiência. Cada passo do processo virava notícia, e cada notícia trazia Itaguaré de volta para as redes.
+*"Tem gente enterrada lá de antes. De muito antes. Quando eles cavam, às vezes acham osso velho. Eles dizem que é dos louco que morreu lá, de antigamente. Ninguém lembra direito o que aconteceu naquele lugar."* Ele hesitou. *"O Saraiva diz que é por isso que ele gosta de lá. Lugar que já foi esquecido, ninguém procura de novo."*
 
-Em 2021, numa visita a Itaguaré, ele passou na frente do bar do Seu Toninho e ouviu alguém dizer, alto o bastante para ele escutar:
+Duas semanas depois, Wesley foi encontrado morto num terreno baldio de Francisco Morato, com cal virgem sobre o corpo. Mas foi encontrado, porque Thales já sabia onde procurar e avisou a Defensoria. Ele foi enterrado com nome, e a mãe dele pôde velar o filho. Thales foi ao enterro e ficou no fundo do cemitério, sem coragem de chegar perto.
 
-*"Esse aí que é o jornalista. O que acabou com a cidade."*
-
-Ninguém o defendeu, e ele não respondeu. Foi para casa, sentou-se na cozinha e ficou olhando a marca de enchente na parede: *fev/1997*.
-
-Pela primeira vez se perguntou se a verdade que tinha publicado tinha libertado alguém ou só tinha trocado uma lama por outra.
+Escreveu o nome de Wesley na lista de capa preta, e foi a primeira vez que escreveu ali o nome de alguém que conhecia.
 
 ---
 
-## Capítulo VII: A mesa posta (2021–2023)
+## Capítulo VI: A Colônia (março de 2022)
 
-Os primeiros sinais foram tão pequenos que pareciam coisa de cidade do interior.
+O lugar existia. Thales o encontrou num mapa de 1962 da Secretaria de Saúde, depois de semanas no Arquivo Público do Estado.
 
-Em maio de 2021, na semana em que os técnicos da CETESB subiram a várzea com uma sonda laranja e passaram três dias furando o chão para tirar amostras, Seu Valdir, pescador de sessenta e oito anos, contou no bar que tinha saído para pescar de madrugada e que o rio estava parado. Não contou com medo, contou com uma espécie de constrangimento, como quem confessa ter visto um disco voador. Disse que jogou uma pedra e ela afundou sem fazer roda na água. Os amigos riram dele e disseram que era a cachaça. Ele não insistiu.
+Chamava-se **Colônia São Jerônimo**. Tinha sido um hospital psiquiátrico, construído nos anos 1910 por uma ordem religiosa no alto da serra, entre Caieiras e Franco da Rocha, e depois tomado pelo Estado. Chegou a ter mil e duzentos internos num lugar feito para trezentos. Foi fechado em **1981**. O motivo oficial nos documentos era "reestruturação da rede de saúde mental".
 
-Em julho, uma mãe da Várzea reclamou com a vizinha que as pegadas dos filhos no quintal não secavam. Chovia, parava de chover, a terra ao redor endurecia, e as marquinhas dos chinelos continuavam úmidas e nítidas, com uma película de água no fundo. Ela passou a vassoura por cima. No dia seguinte estavam lá de novo, no mesmo lugar, do mesmo tamanho.
+Thales achou estranho que um hospital daquele tamanho tivesse tão pouca coisa registrada sobre os últimos anos. Os livros de internação iam até 1978 e depois paravam. Os relatórios de 1979 e 1980 existiam no índice do arquivo, mas, quando ele pediu as caixas, elas vieram com as pastas no lugar e **as folhas em branco**. Não estavam rasgadas, arrancadas nem queimadas. Eram folhas de papel timbrado do Estado, amareladas pelo tempo, numeradas e carimbadas, sem uma única palavra escrita.
 
-Em setembro, Seu Valdir apareceu no bar sem chapéu e não pediu cachaça. Contou que tinha encontrado, na lama da margem, as pegadas das botas do irmão, **Orlando**, afogado naquele mesmo rio em 1989. Reconheceu por causa de um remendo: Orlando tinha costurado um pedaço de pneu na sola do pé esquerdo, e a pegada tinha o desenho do pneu. As marcas iam em direção à água.
+Ele perguntou à funcionária do arquivo se aquilo era comum. Ela olhou as folhas por um tempo, com uma expressão estranha, e disse que nunca tinha visto. Depois disse que precisava ir ao banheiro e não voltou.
 
-Ninguém riu dessa vez. Seu Valdir voltou à margem na noite seguinte, para ver de novo. E na outra. Passou a ir toda madrugada, sentar-se na mesma pedra e olhar as mesmas pegadas. Dizia aos vizinhos que só ia conferir se ainda estavam lá. Em um ano, ganhou o rosto de um homem de noventa. Os médicos disseram que era o chumbo e a idade.
+Thales anotou no caderno: *"Colônia S. Jerônimo — relatórios 79/80 em branco. Por quê?"* E foi até lá.
 
-E havia os relógios. Em certas madrugadas de 2021, 2022 e 2023, os relógios de algumas casas da Várzea amanheciam parados na mesma hora: **4h17**. Era o relógio de cozinha de uma casa, o despertador de pilha da outra, o micro-ondas de uma terceira. Nunca todos, nunca na mesma noite. As pessoas trocavam a pilha, ajustavam o horário e não comentavam muito. Em Itaguaré, ninguém precisava explicar o que aquela hora significava.
+Foi na quinta-feira, 17 de março de 2022, à tarde, sozinho. Foi o maior erro da vida dele, e ele sabia que era um erro enquanto o cometia. Marta tinha proibido. Mas a pauta estava parada havia meses, o MP não se mexia sem prova, e Dona Marinalva ligava toda semana perguntando se ele tinha achado o Jonathan.
 
-Thales soube de tudo isso pela mãe, por telefone, aos domingos. Lúcia contava rindo, meio sem jeito, como quem conta fofoca de vizinho. Ele ouvia com uma atenção que ela não percebia.
+A Colônia ficava no fim de uma estrada de terra tomada pelo mato. Era um conjunto de prédios de tijolo de dois andares, ligados por corredores cobertos, em volta de um pátio central com uma capela no meio. A capela não tinha mais telhado. O mato tinha entrado por todas as janelas. Havia camas de ferro enferrujadas empilhadas nos corredores e, nas paredes, restos de pichação e de alguma outra coisa mais antiga, riscos a carvão e a giz que pareciam desenhos inacabados, feitos e refeitos no mesmo lugar muitas vezes, uns por cima dos outros, até virarem uma mancha preta.
 
-E ele tinha uma explicação. Era uma boa explicação, científica, documentada, que ele mesmo tinha publicado: **intoxicação por chumbo causa confusão mental, alterações de percepção e perda de memória.** Uma população inteira exposta por décadas a um neurotóxico ia, sim, ter relatos estranhos. Ele chegou a esboçar uma matéria sobre isso, *"Os efeitos invisíveis do chumbo em Itaguaré"*, e chegou a ligar para um neurologista da USP para pedir uma entrevista.
+Ele andou pelo lugar durante uma hora, fotografando tudo. No pátio de trás, atrás da capela, encontrou o que procurava: terra remexida em vários pontos, montes de cal velha endurecida pela chuva, um saco de cal novo ainda fechado e um tênis infantil desbotado preso numa raiz.
 
-Anos depois, escrevendo a seção sobre **Cegueira do Rascunho** no caderno, ele pensaria nesse esboço. Ele não estava mentindo para si mesmo. Ele tinha uma explicação suficiente, e uma explicação suficiente é a coisa mais perigosa do mundo quando a realidade é maior do que ela.
+Ele estava agachado fotografando o tênis quando ouviu o motor.
 
-Em março de 2022, a segunda campanha de sondagem da CETESB chegou à Várzea. Dessa vez a máquina era maior, montada num caminhão, e furou o chão até seis metros de profundidade em quinze pontos diferentes, um deles a trinta metros do quintal de Lúcia. Ela reclamou do barulho por telefone. Disse que a broca fazia o chão da cozinha tremer e que a água do filtro ficava com gosto de moeda.
+Não teve tempo de correr. Eram dois carros e cinco homens. O primeiro tiro pegou o ombro esquerdo dele de raspão, por trás, e o jogou de cara na terra. Ele lembra do gosto de cal na boca. Lembra de alguém pisando nas costas dele e de outra pessoa amarrando as mãos dele com uma abraçadeira. Lembra de ver, de relance, antes de o capuz descer, o rosto de um homem de uns sessenta anos, de cabelo grisalho cortado curto, camisa polo e uma corrente de ouro com um crucifixo. Era o Tenente Saraiva, que ele conhecia por foto.
 
-Na terça-feira daquela semana, **Lúcia perdeu o primeiro dia.**
+*"O jornalista do Sem Nome"*, disse Saraiva, quase com carinho. *"Você gosta tanto de dar nome pros mortos. Vamos ver quem vai dar o seu."*
 
-Ela contou isso de um jeito confuso, numa ligação de domingo. Disse que tinha ido dormir na terça à noite, depois da novela, e acordado na terça de manhã, mas que alguma coisa estava errada. Estava com fome, uma fome funda, como se não comesse havia dias. As unhas das mãos estavam compridas, e ela sempre as mantinha curtas por causa do trabalho.
+Levaram-no para dentro, por um dos corredores cobertos, até o segundo andar do prédio principal. Thales sabia que era o segundo andar porque contou os degraus da escada, vinte e dois, como aprendeu no plantão a contar tudo. Colocaram-no de joelhos no meio de um corredor comprido. Pelo eco, era um corredor comprido, com portas dos dois lados. Pelo cheiro, de mofo, urina velha e ferro, eram os antigos quartos dos internos.
 
-E havia louça na pia.
+Ele ouviu Saraiva mandar dois homens pegarem pás. Ouviu um terceiro, mais novo, que os outros chamavam de **Rúben**, engatilhar uma espingarda. Pelo som, era uma espingarda de cano duplo. Ouviu um quarto homem rir de alguma coisa no celular.
 
-Thales pediu que ela descrevesse, e ela descreveu com a precisão de quem lavou aquilo com as próprias mãos. **Três pratos fundos, três garfos, três copos de vidro.** Uma panela com fundo de arroz. Uma frigideira com a gordura de ovos fritos. Um prato de farinha.
+Thales começou a rezar. Ele não reza, não sabe se acredita, mas as palavras do terço da avó vieram sozinhas, baixinho, dentro do capuz, *ave Maria, cheia de graça*, porque era a única coisa que ele tinha.
 
-*"Mãe, a senhora fez três refeições?"*
+Foi aí que começou **a coceira**.
 
-*"Não, filho. Foi uma refeição só. A gente comeu junto."*
+Não era na pele. Era dentro da cabeça, atrás dos olhos, no fundo da nuca. Era como uma palavra na ponta da língua que não vem, multiplicada por mil, um incômodo que não doía, mas que era impossível de ignorar, como o barulho de uma mosca presa num quarto. Ele percebeu que os homens também estavam sentindo, porque pararam de falar. O que ria no celular parou de rir.
 
-*"A gente quem?"*
+*"Tá ouvindo isso?"*, disse Rúben.
 
-Ela riu baixinho, como quem fala de algo óbvio.
+Thales não estava ouvindo nada. O corredor estava em silêncio total. Mas ele sabia exatamente do que Rúben estava falando.
 
-*"Eu e sua avó. A gente conversou tanto, Thales. Ela tava tão bem."*
+O celular do homem que ria apagou. Depois a lanterna de outro começou a piscar. Alguém xingou e bateu a lanterna na mão. Ela piscou mais rápido e apagou.
 
-Dona Cida tinha morrido em 2015.
+E então, ajoelhado no ladrilho frio, com o capuz no rosto, Thales percebeu que **havia alguém ajoelhado ao lado dele**.
 
-*"E o terceiro prato, mãe?"*
+Ele não ouviu ninguém chegar. Não ouviu respiração nem sentiu calor de corpo. Mas, pela trama do pano de saco, pela fresta da costura grossa que raspava no nariz dele, no canto mais extremo da visão, à esquerda, ele via uma forma. Ou quase via. Era escura, da altura de uma pessoa ajoelhada, e **mudava o tempo todo**: os contornos tremiam, se refaziam, se apagavam e voltavam, como um desenho a lápis que alguém começa, apaga e recomeça no mesmo lugar, sem nunca terminar. Como os riscos na parede da capela.
 
-Lúcia ficou em silêncio do outro lado da linha. Ele ouviu o rádio da cozinha, a chaleira, o cachorro do vizinho. Depois ela disse:
+Ela estava virada para ele, e ele teve a certeza absurda de que ela estava **olhando para dentro do capuz**.
 
-*"Eu não lembro de quem era. Mas a pessoa comeu tudo. Raspou o prato."*
+Ele não virou a cabeça. Até hoje não sabe por quê. Não foi coragem, foi o mesmo instinto que fazia a mãe dizer *pisa onde eu pisei*: alguma coisa nele sabia que não devia olhar diretamente.
 
-Quando Thales foi a Itaguaré no fim de semana seguinte, a louça já estava lavada e guardada. Só um dos pratos ainda estava no escorredor, porque Lúcia não teve coragem de guardar. Era o prato da cabeceira. Ele o pegou contra a luz da janela. O esmalte estava cheio de **riscos finos de garfo**, dezenas deles, feitos por alguém que raspou o prato até o fim, devagar, para não deixar um grão.
+Do outro lado do corredor, um dos homens apontou a lanterna do celular para Thales e disse, com a voz falhando:
 
-Os pratos da casa eram novos. Lúcia tinha comprado aquele jogo em 2020, com o dinheiro do prêmio que Thales mandou para ela. Até aquela terça, ninguém nunca tinha comido neles com tanta fome.
+*"Tenente. Tem alguma coisa do lado dele."*
 
-Thales levou a mãe a um clínico em Registro, que pediu exames, inclusive de chumbo. O nível estava alto, como o de quase todo mundo da Várzea. O médico falou em *"possível início de quadro demencial associado a exposição crônica"* e receitou acompanhamento.
+Saraiva virou a lanterna para o mesmo ponto. Thales viu a luz atravessar o pano do capuz.
 
-Thales aceitou a explicação. Era coerente e terrível, e era a explicação que ele mesmo tinha publicado.
+*"Não tem nada aí, porra."*
 
-Ao longo de 2022 e do começo de 2023, Lúcia perdeu mais dias, cada vez com mais frequência. Às vezes eram três, às vezes cinco. O corpo voltava sempre um pouco mais velho: os cabelos ficaram brancos, a pele afinou, as mãos começaram a tremer. Em fevereiro de 2023, Lúcia tinha sessenta anos, e um vizinho que não a via havia algum tempo perguntou a Thales se ela era a avó dele.
+E não tinha. No momento em que a luz e os olhos dos homens se voltaram para o lado de Thales, **não havia nada**. A coceira continuou, mas a forma no canto da visão dele tinha sumido.
 
-E ela começou a voltar para 1997.
+*"Tinha"*, insistiu o homem. *"Eu vi. Tinha um..."*
 
-O que mais assustava Thales não era o fato de ela voltar, era **o rosto dela quando voltava**. Ela estava conversando normalmente, sobre o preço do gás ou sobre a novela, e de repente parava no meio da frase, olhava para a porta da cozinha e **sorria**. Não era o sorriso cansado que ele conhecia. Era um sorriso de mulher jovem, que ele só tinha visto em fotografias antigas. Às vezes ela arrumava o cabelo com as mãos, como quem espera alguém chegar. Às vezes falava baixinho com a cadeira da cabeceira.
+Ele não terminou a frase. Pelo som, uma das camas de ferro empilhadas no corredor, uma cama inteira, de ferro maciço, de quarenta quilos, **voou** pelo corredor e o acertou de lado. Thales ouviu o barulho do ferro contra o corpo e contra a parede, um som surdo, molhado, que ele conhecia do plantão.
 
-Depois voltava, e não lembrava, e parecia triste de um jeito que não sabia explicar.
+Depois disso, ele só ouviu.
 
-Uma noite, ajudando-a a se deitar, ele perguntou para onde ela ia quando ficava daquele jeito. Lúcia pensou por um tempo, com os olhos fechados.
+Ouviu Saraiva gritar ordens que ninguém obedeceu. Ouviu a espingarda de Rúben disparar dois tiros seguidos, ensurdecedores no corredor fechado, para um lugar onde não havia nada. Ouviu alguém correr e ser arremessado contra uma porta. Ouviu portas dos antigos quartos batendo sozinhas, uma depois da outra, de ponta a ponta do corredor, como se alguém passasse por elas correndo. Ouviu um homem chorar e pedir pela mãe. Ouviu o celular de alguém tocar um toque de forró no meio de tudo, e depois parar.
 
-*"Pra uma casa cheia de lama, filho. Mas tava todo mundo lá."*
+E, por baixo de tudo, ouviu um som que nunca conseguiu descrever direito para ninguém. Era o som de **lápis no papel**. Era muito baixo e muito rápido, como alguém escrevendo e apagando, escrevendo e apagando, sem parar, bem ao lado do ouvido esquerdo dele.
 
-Thales levou a mãe a três neurologistas. Um falou em Alzheimer precoce, outro em demência vascular, outro disse que os exames não fechavam com nenhum diagnóstico conhecido e que o envelhecimento era *"incompatível com o tempo cronológico"*.
+A forma voltou, ao lado dele, no canto da visão, sempre que todos os outros estavam olhando para outro lugar.
 
-Thales anotou essa frase no caderno e a sublinhou. Depois ficou olhando para ela por um tempo muito longo.
+Ele não sabe quanto tempo durou. Mais tarde, a perícia diria que foram uns quatro minutos.
 
-Em junho de 2023, ele pediu licença da Fresta e voltou para Itaguaré para cuidar da mãe. Marta concordou na hora e disse para ele ficar o tempo que precisasse.
+Depois veio o silêncio, e a coceira sumiu de uma vez, como uma dor de dente que para.
 
-Ele ficou bem mais tempo do que planejava.
+Thales ficou ajoelhado muito tempo antes de ter coragem de se mexer. Conseguiu tirar o capuz esfregando o rosto no ombro. O corredor estava escuro, iluminado só por uma lanterna caída no chão, apontada para o teto.
 
----
+Havia três homens mortos. Saraiva estava sentado contra uma parede, com os olhos abertos e o rosto calmo, sem nenhuma marca, como quem esqueceu de respirar. Outro estava debaixo da cama de ferro. O terceiro estava caído na escada, com o pescoço num ângulo impossível. Um quarto homem tinha fugido; a polícia o encontrou dois dias depois em casa, sem lembrar de nada daquela semana.
 
-## Capítulo VIII: A trilha (julho de 2023)
+E havia **Rúben**, o da espingarda, sentado no chão no fim do corredor, encolhido num canto, abraçando os joelhos, com a espingarda vazia ao lado. Estava vivo, sem nenhum ferimento, e olhava fixo para um ponto vazio da parede. Mexia os lábios sem parar.
 
-Naquela semana, a perícia judicial tinha passado pela Várzea. Três engenheiros contratados pelo juiz da ação civil, de capacete branco e colete refletivo, percorreram a área com um GPS e cravaram **estacas amarelas** no chão, de vinte em vinte metros, marcando o perímetro da escavação. O laudo deles sairia em agosto. Depois do laudo, a licitação. Depois da licitação, as máquinas.
+Thales chegou perto e ouviu o que ele dizia:
 
-As estacas formavam um retângulo enorme que engolia metade do bairro. Uma delas ficou fincada a três passos do portão de Lúcia. Thales tirou uma foto dela com o celular, como se fosse um troféu.
+*"Ele tava do teu lado. O tempo todo. Ele tava do teu lado. Por que ele não pegou você? Ele tava do teu lado..."*
 
-Na quarta noite em Itaguaré, ele acordou com a casa em silêncio.
+Thales saiu do prédio sozinho, com as mãos ainda amarradas, sangrando pelo ombro, descendo os vinte e dois degraus no escuro. Andou dois quilômetros de estrada de terra até a primeira casa e bateu na porta com a testa.
 
-Não foi um barulho que o acordou, foi a falta de um. A geladeira velha, que zumbia a noite toda, tinha parado. O relógio de parede da cozinha, que ele ouvia do quarto, também. Ele olhou o celular e viu 4h17. Não pensou muito nisso. Ainda não pensava.
-
-Ouviu a porta da frente abrir devagar e se levantou a tempo de ver a mãe saindo para a rua, de camisola, descalça. Ela andava com os olhos abertos, mas não estava ali. Andava com a firmeza de quem conhece o caminho de cor e não precisa olhar onde pisa.
-
-Ele a chamou duas vezes e ela não respondeu. Calçou o chinelo e foi atrás.
-
-Ela desceu a rua de terra em direção à várzea. Passou pela antiga padaria do Seu Toninho, fechada havia anos, e Thales, sem saber por que, olhou pela vitrine. O relógio de 1997 continuava lá dentro, no escuro, parado onde sempre esteve. Ele já tinha passado por aquele relógio milhares de vezes na vida. Naquela noite, pela primeira vez, teve a sensação de que era ele quem estava atrasado.
-
-A várzea à noite era um campo largo de capim baixo e barro escuro, que descia suave até a margem do rio. As estacas amarelas apareciam na luz da lanterna do celular como dentes. Lúcia passou entre elas sem olhar e parou onde o capim acabava e começava o barro mole.
-
-Ela ficou parada por um tempo. Depois levantou a mão devagar e apontou para o chão.
-
-Havia pegadas ali. Duas trilhas, uma dentro da outra. As de fora eram de pé de mulher, descalço, afundado fundo, com os dedos abertos de quem se equilibra. As de dentro eram pequenas, de criança, de **bota de borracha**, com as solas gastas. Thales reconheceu as de dentro antes de entender por quê: eram as botas azuis que ele tinha ganhado da avó no Natal de 1996, com uma rachadura no calcanhar direito. Na pegada do pé direito, dava para ver o desenho da rachadura.
-
-As trilhas iam em direção à escola, no alto da rua do cemitério. E **voltavam**. Faziam o caminho de ida e, ao lado, o mesmo caminho de volta, pisando nas mesmas marcas, de modo que cada pegada era funda demais, pisada duas vezes.
-
-Ao lado delas, havia uma terceira trilha.
-
-Não eram pegadas humanas. Eram afundamentos irregulares, sem dedos e sem calcanhar, como se alguma coisa tivesse pressionado o barro com uma superfície que ainda não sabia qual forma tinha um pé. E estavam **sempre um passo atrás** das outras duas. Onde a mulher e o menino pisavam, a coisa pisava logo depois. Na ida e na volta.
-
-Thales ficou olhando aquilo com a lanterna tremendo na mão. A parte dele que checa três vezes, que escreve a lápis e desconfia de documento bonito demais, procurou uma explicação. Não encontrou nenhuma.
-
-Lúcia virou-se para ele. O rosto dela estava jovem na luz fraca, sem nenhuma ruga, e ela sorria.
-
-*"Pisa onde eu pisei, Thales. Só onde eu pisei."*
-
-Ele sabia que não devia. Mas era a voz da mãe, e por um segundo ele teve sete anos, estava com frio e queria que alguém soubesse o caminho por ele.
-
-Ele pisou na própria pegada, a do menino.
-
-A lama estava fria do mesmo jeito daquela manhã, um frio que vinha de baixo, de muito fundo, e subiu pelo pé até a canela, até o osso. Ele sentiu o frio **encontrar alguma coisa lá dentro**, como uma mão que reconhece a outra no escuro.
-
-Então ele tirou o pé da lama.
-
-Quando olhou em volta, era dia, um sol forte de meio-dia, e a mãe não estava ali. Ele estava sozinho na várzea, de pé na lama até o tornozelo, com o caderno na mão. Ele não tinha levado o caderno quando saiu de casa.
-
-A estaca amarela mais próxima estava arrancada, deitada na lama, apontando para a casa de Lúcia.
-
-Ele voltou para casa por outro caminho, sem saber por quê, dando a volta pela rua do cemitério. A mãe estava na cozinha fazendo café. Viu-o entrar e começou a chorar.
-
-Era **28 de julho**. Ele tinha saído atrás dela na madrugada de **17 de julho**.
+Ele não olhou para trás nenhuma vez.
 
 ---
 
-## Capítulo IX: O que os outros viram
+## Capítulo VII: O que ficou (2022)
 
-Thales não lembra de nada desses onze dias. Para ele, foi um passo. Mas outras pessoas lembram, e ele passou as semanas seguintes entrevistando todas elas, como faria com qualquer pauta. Escreveu tudo no caderno, a lápis.
+Passou nove dias no Hospital Regional de Franco da Rocha. O tiro tinha passado de raspão pelo ombro, sem pegar osso, mas ele perdeu muito sangue e chegou com hipotermia. A cicatriz ficou: uma linha grossa e esbranquiçada, de oito centímetros, no alto do ombro esquerdo.
 
-**Lúcia** disse que ele não sumiu. Ele esteve em casa o tempo todo, dormiu no quarto dele e comeu com ela todas as noites. *"Você tava tão quietinho"*, ela disse, e não parecia assustada, parecia saudosa. Contou que ele mesmo punha a mesa. Punha **quatro pratos**, sempre, e ela achou bonito e não perguntou.
+Nas primeiras quarenta e oito horas, deitado no hospital, com o braço imobilizado e uma caneta emprestada da enfermeira, Thales escreveu tudo o que tinha acontecido. Encheu catorze páginas, com letra torta, porque escrevia com a mão esquerda presa. Escreveu tudo: o capuz, a coceira, a forma, as camas, o som de lápis no papel e a frase de Rúben.
 
-E contou outra coisa. Todas as noites, depois do jantar, ele pedia que ela contasse a enchente de 1997.
+Ele fez isso porque sabia, do plantão, que testemunhas esquecem. Sabia que em uma semana a memória começa a se reorganizar, a preencher lacunas e a inventar. Queria registrar antes disso.
 
-*"Conta de novo, mãe. Desde o começo."*
+Não sabia ainda que ia precisar muito daquelas catorze páginas.
 
-E ela contava: a água entrando pela porta, o guarda-roupa, o pai puxando o colchão do vizinho, a travessia da várzea, a escola, a volta pelas mesmas pegadas, o jantar dos quatro com a mesa em cima dos tijolos. Ele ouvia sem interromper, com o caderno aberto, sem escrever nada. Quando ela terminava, ele dizia *"de novo"*. Às vezes ela contou três vezes na mesma noite.
+**A versão oficial** saiu em uma semana: acerto de contas entre membros de uma organização criminosa. Os três mortos teriam brigado entre si num local abandonado usado para "atividades ilícitas". O jornalista teria sido sequestrado e "deixado de lado" durante o conflito. A perícia registrou "lesões compatíveis com queda e agressão física". Ninguém explicou como uma cama de ferro de quarenta quilos atravessou dez metros de corredor, nem como um homem morreu sentado, sem nenhuma marca.
 
-*"Foram noites boas, filho. Faz tempo que eu não lembrava daquilo tudo assim, tão inteiro."*
+Mas a polícia fez uma coisa que Thales não esperava: **escavou o pátio de trás da Colônia**. Encontraram os restos de dezenove pessoas enterradas com cal. Pela arcada dentária, uma delas era **Jonathan**, o filho de Dona Marinalva.
 
-**Dona Rosário**, viúva de setenta e nove anos, disse que Thales bateu na porta dela de madrugada e perguntou se podia conversar com o seu Joaquim, o marido dela, morto em 2008. Ela disse que o marido tinha morrido. Thales agradeceu, educado e calmo, e respondeu que voltaria outro dia. Voltou nas três noites seguintes, com a mesma pergunta, as mesmas palavras e o mesmo tom. Na terceira, Dona Rosário deixou a porta aberta e foi dormir. Ela não sabe o que aconteceu na sala, mas de manhã a cadeira de balanço do marido estava virada para a janela, do jeito que ele gostava, e ela não tinha mexido nela em quinze anos.
+Ela pôde enterrar o filho com nome em maio de 2022, oito anos depois de ele sair para comprar pão. No velório, abraçou Thales por muito tempo sem dizer nada. Depois disse só: *"Obrigada por não esquecer dele."*
 
-**Seu Benedito Prado**, o ex-operador da mineradora, a fonte principal da série, contou que Thales passou uma tarde inteira na varanda dele, sem gravador, e fez as mesmas perguntas de 2019, palavra por palavra, na mesma ordem. Seu Benedito estranhou, mas respondeu, e se pegou respondendo com as mesmas palavras também, como quem canta uma música que decorou. Quando chegou na parte do dedo apontado para a Várzea, *"ali, vocês moravam em cima"*, Thales sorriu e foi embora sem se despedir.
+Thales escreveu o nome de Jonathan na lista de capa preta e, ao lado, entre parênteses, *(encontrado)*. Foi a primeira vez que escreveu essa palavra ali.
 
-Depois disso, a filha de Seu Benedito notou uma coisa. O pai começou a contar a história dos caminhões para todo mundo que aparecia: o carteiro, a agente de saúde, o neto. Sempre com as mesmas palavras, na mesma ordem. Às vezes contava para a varanda vazia.
+A polícia também encontrou outra coisa, que não saiu em jornal nenhum, e Thales só soube meses depois por um perito que tinha bebido demais num bar. Debaixo dos dezenove corpos com cal havia outra camada, mais funda e muito mais antiga: ossos de dezenas de pessoas, talvez centenas, sem cal, sem roupa, sem caixão, enterradas em vala comum. Os ossos estavam ali havia quarenta anos ou mais. Ninguém nunca tinha registrado aquela vala, e ninguém sabia quem eram.
 
-**Kauã**, um menino de oito anos que morava duas casas acima de Lúcia, paciente de Helena desde os quatro, um dos nomes da primeira parte da série, disse à mãe que o *"moço do jornal"* tinha sentado com ele no quintal e pedido que ele desenhasse *"o que anda atrás"*. Kauã desenhou com giz de cera marrom: duas pessoas andando, uma grande e uma pequena, e atrás delas uma terceira forma, sem rosto, feita de rabiscos, com os pés dentro das pegadas das outras duas. Embaixo, escreveu com letra torta: *ELE ANDA ONDE A GENTE JÁ ANDOU.*
-
-Thales olhou o desenho por muito tempo e depois disse ao menino: *"É isso."*
-
-**Bianca**, uma adolescente de quinze anos da rua de cima, gravou com o celular, da janela do quarto, quarenta e dois segundos de imagem tremida, numa madrugada do meio daqueles onze dias. Dá para ver a várzea, as estacas amarelas e, perto da margem, com lama até os joelhos, **Thales**, de pé, escrevendo no caderno apoiado no antebraço. Ele escreve sem pressa, sem olhar para o papel, olhando para o rio.
-
-Bianca levou meses para perceber o que estava errado no vídeo e só contou a Thales muito depois. Em volta dele, na lama mole, **não há nenhuma pegada**. Nem de ida, nem de volta. É como se ele tivesse sido colocado ali.
-
-**Os engenheiros da perícia** voltaram à Várzea em agosto para conferir as marcações e encontraram metade das estacas amarelas arrancadas. Não estavam quebradas nem roubadas: estavam deitadas na lama, enfileiradas com cuidado, uma depois da outra. A polícia registrou como vandalismo. A perícia teve que ser refeita, e o laudo atrasou dois meses.
-
-E havia o caderno.
-
-No fim dele, depois da Versão 0.2, depois de várias páginas em branco, havia **onze páginas novas**. A letra era dele, sem dúvida: a mesma inclinação para a direita, o mesmo "t" cortado alto, o mesmo hábito de sublinhar com duas linhas. Estavam escritas a lápis, como sempre.
-
-Ele não lembrava de ter escrito nenhuma palavra.
-
-No alto da primeira página estava escrito: **FILOSOFIA DO RASCUNHO — Versão 1.0 — Final**.
-
-O reflexo dele, antes de ler, foi passar a borracha num canto da primeira página. O grafite saiu normalmente, e ele parou imediatamente, com o coração disparado, como quem acabou de rasgar uma prova. Pensou como repórter: aquilo era evidência. Fechou o caderno e não apagou mais nada.
-
-Levou dois dias para ter coragem de ler. Quando leu, desejou não ter lido. Não por medo do que estava escrito, mas porque, numa noite cansada, uma parte dele concordou.
+*"E sabe o mais estranho?"*, disse o perito, olhando para o copo. *"Eu passei três dias cavando lá. Três dias. E eu não consigo lembrar direito da cara daquele lugar. Eu tenho as fotos no computador. Eu olho as fotos e é como se eu nunca tivesse ido."*
 
 ---
 
-## Capítulo X: Ivone (setembro de 2023)
+As reações de Thales vieram em camadas, como as de qualquer pessoa que quase morreu, e ele as reconheceu com a frieza de quem já tinha visto trezentas pessoas passarem pelo pior dia da vida delas.
 
-Thales voltou para São Paulo no começo de agosto, deixando a mãe aos cuidados de uma vizinha. Não sabia o que fazer com o que tinha vivido. Não podia contar a Marta, a Helena nem a ninguém. Era um jornalista, e um jornalista que publicasse aquilo seria tratado como louco ou, pior, como mais um Caio Vasques.
+**O capuz.** Ele não consegue mais ter nada cobrindo o rosto. Não usa capuz de moletom nem gorro, e não consegue dormir com o lençol sobre a cabeça. No primeiro mês, uma enfermeira colocou uma máscara de oxigênio nele durante um exame, e ele arrancou a máscara e caiu da maca. Até hoje, em lugares fechados e escuros, ele sente o cheiro de farinha velha.
 
-Passou cinco semanas trancado na quitinete da Bela Vista, saindo só para comprar comida.
+**A luz.** Ele dorme com a luz acesa, sempre, todas as noites. Não com abajur: com a luz do teto, branca e forte, a luz inteira do quarto. Sabe que não faz sentido, porque o que aconteceu naquele corredor aconteceu no escuro, mas foi **justamente quando as lanternas apagaram** que tudo começou. Ele não sabe explicar, só sabe que, com a luz acesa, a coceira não vem.
 
-No dia 14 de setembro, às sete da manhã, a campainha tocou.
+**O canto do olho.** Esse é o que mais o incomoda, porque ele não consegue contar para ninguém sem parecer louco. Às vezes, raramente, num quarto, num corredor ou numa sala de espera, ele percebe um movimento no canto extremo da visão, à esquerda. É um contorno escuro, um rabisco. Quando ele vira a cabeça, não tem nada. Ele aprendeu a **não virar a cabeça**. Aprendeu a continuar olhando para a frente, respirar devagar e esperar passar. Quase sempre passa.
 
-A mulher na porta tinha uns cinquenta anos, cabelo grisalho preso num coque apertado, óculos de armação fina, um casaco cinza simples e uma bolsa de couro gasta. Carregava dois cafés de padaria num suporte de papelão e uma pasta grossa debaixo do braço. Parecia uma funcionária pública a caminho do trabalho.
+**A coceira.** Às vezes ela volta, por segundos. Atrás dos olhos, como uma palavra na ponta da língua. Quando volta, ele acende todas as luzes que encontrar.
 
-*"Thales Garcias Martins?"*
+**A memória.** Esta é a parte que mais o assusta. Quatro meses depois, relendo as catorze páginas do hospital, ele percebeu que **não lembrava de várias das coisas que tinha escrito**. Não era que lembrasse diferente: não lembrava de jeito nenhum. Ele lia *"o celular de alguém tocou um forró"* e sabia que tinha escrito aquilo, era a letra dele, mas a lembrança não existia mais. Era como ler a história de outra pessoa.
 
-*"Quem é a senhora?"*
+Ele releu de novo um mês depois e percebeu que tinha esquecido mais.
 
-*"Ivone Sabará. Eu trouxe café. Você vai precisar."*
+Foi então que começou a reler as catorze páginas **toda semana**. Como quem toma remédio. Lê em voz alta, sozinho, com a luz acesa, cada palavra, para que aquilo não se apague. Já percebeu que, quando passa duas semanas sem ler, a lembrança da forma ao lado dele fica mais fraca e mais difícil de segurar, como um sonho de manhã. E percebeu também que, quanto mais fraca a lembrança, **mais vezes ele vê o movimento no canto do olho**.
 
-Ele não sabe até hoje por que a deixou entrar. Talvez porque ela não tinha nada de ameaçador, ou porque estava cansado demais, ou porque ela olhou para a mecha grisalha na têmpora dele, que tinha aparecido em algum momento daqueles onze dias, e não pareceu nem um pouco surpresa.
+Ele não sabe o que isso significa. Anotou no caderno e continua relendo.
 
-Ivone sentou-se na única cadeira da quitinete, colocou a pasta na mesa e falou durante duas horas, sem pressa e sem drama, com a voz monótona de quem lê uma ata.
+**Rúben**, o homem da espingarda, foi internado num hospital psiquiátrico de custódia. Thales foi visitá-lo uma vez, em agosto de 2022, porque precisava saber se aquilo tinha sido real para mais alguém. Rúben estava magro, de cabeça raspada, sentado na cama com as costas na parede, num quarto sem cantos escuros, com a luz acesa ao meio-dia. As paredes estavam cobertas de **rabiscos a lápis**, riscos feitos, apagados com o dedo e refeitos no mesmo lugar, centenas de vezes, até virarem manchas cinzentas. Rúben não reconheceu Thales. Não lembrava de Saraiva, da Colônia nem do próprio nome do meio. Os enfermeiros disseram que ele esquecia um pouco mais a cada semana.
 
-Ela não falou de tudo. Thales, que passou a vida entrevistando gente, percebeu logo que ela escolhia o que dizer. Falou de um **outro lado** da realidade, de uma **membrana**, de **medo** coletivo, sem detalhar nada. Disse *"a gente acha"* mais vezes do que *"a gente sabe"*, mas dizia *"a gente acha"* com a segurança de quem já decidiu.
+Mas, quando Thales estava saindo, Rúben falou, sem olhar para ele, olhando para um canto vazio do quarto:
 
-Depois ela abriu a pasta.
+*"Você não olhou pra ele. Foi isso. Eu olhei. Todo mundo olhou. Você não olhou."*
 
-Dentro havia um gráfico impresso com duas linhas. A linha azul era o volume de compartilhamentos e menções da série *A Lama Lembra* nas redes, de agosto de 2020 até setembro de 2023. A linha vermelha eram as "ocorrências" registradas em Itaguaré: relatos de moradores, relógios, os dias perdidos de Lúcia, que alguém da organização de Ivone tinha catalogado com uma paciência assustadora.
+**Lúcia** veio de Itaguaré para cuidar do filho. Ficou dois meses na quitinete dele, dormindo num colchonete, fazendo feijão, trocando o curativo do ombro. Ela não perguntou o que tinha acontecido, e ele não contou. Uma noite, vendo o filho acordado às três da manhã, com a luz acesa, olhando fixo para a frente, ela sentou na beira da cama e disse:
 
-As duas linhas subiam e desciam juntas.
+*"Quem te protegeu naquele lugar foi Deus, filho. Pode ter certeza."*
 
-*"Ela se alimenta disso"*, disse Ivone, batendo com a unha na linha azul. *"Da história. Do medo que as pessoas sentem daquela lama. Cada vez que o país inteiro olha pra Itaguaré com medo, ela come. E é a sua mãe que paga a conta."*
+Ele quis muito acreditar nisso. Às vezes acredita. Mas nunca conseguiu esquecer que a coisa que estava ao lado dele **não era Deus**. Não tinha nada de luz nem de calor, nada de proteção. Era um rabisco, um vazio com forma de gente. Uma coisa que, por algum motivo que ele não entende, ficou ajoelhada ao lado dele, olhando para dentro do capuz, e deixou-o viver.
 
-Thales pegou o gráfico e leu como lia documentos: devagar, desconfiado, procurando a vírgula errada.
+Às vezes ele acha que foi sorte. Às vezes acha que foi porque não olhou. E às vezes, nas piores noites, acha que ela **ainda não terminou**.
 
-Encontrou uma.
+---
 
-Em **março de 2022** havia um pico vermelho enorme, o maior de todo o período até então: os primeiros dias perdidos de Lúcia. Mas a linha azul, ali, estava quase reta. Não havia vídeo de Caio, não havia eleição nem desafio de rede social. Ninguém estava falando de Itaguaré naquela semana.
+## Capítulo VIII: As folhas em branco (2022)
 
-Thales lembrou de uma coisa pequena: o barulho da broca, que fazia o chão da cozinha tremer e a água do filtro ficar com gosto de moeda.
+Thales não conseguiu publicar nada. Marta leu as catorze páginas inteiras, sentada na sala dela, sem dizer uma palavra. Quando terminou, devolveu o caderno e disse, com uma delicadeza que ele nunca tinha visto nela:
 
-*"E aqui?"*, ele perguntou, apontando. *"Aqui não tinha ninguém compartilhando nada."*
+*"Thales. Você levou um tiro. Viu três pessoas morrerem. Ficou de joelhos com um capuz na cara esperando a sua vez. Ninguém sai disso inteiro. Procura ajuda. E não publica isso. Não porque eu acho que você tá louco. Porque eles vão dizer que você tá."*
 
-Ivone olhou o ponto por dois segundos.
+Ele procurou ajuda. Fez terapia por seis meses com uma psicóloga do SUS, uma mulher paciente que falou de estresse pós-traumático, de dissociação, de como o cérebro em perigo extremo cria imagens para dar sentido ao que não consegue processar. Era uma explicação boa, científica e suficiente. Ele quis acreditar nela também. Escreveu no caderno, numa página que depois virou parte da filosofia: *"Uma resposta pode ser suficiente e ainda assim não ser verdadeira."*
 
-*"Grupo de WhatsApp, rede fechada. A gente não mede tudo. O padrão geral é claro."*
+O que ele não conseguia explicar era o resto: o perito que não lembrava do lugar, Rúben esquecendo o próprio nome, as próprias catorze páginas se apagando da memória dele, o movimento no canto do olho. E as **folhas em branco** do Arquivo Público.
 
-Ela disse isso com tanta tranquilidade que ele deixou passar. Anotou a data no caderno, com um ponto de interrogação, e virou a página.
+Então ele fez o que sabia fazer: investigou.
 
-Depois ela tirou da pasta uma folha impressa com o logotipo da Agência Fresta no topo. Era uma **errata**, já redigida e diagramada, pronta para publicação. Thales a leu com a sensação de que o chão estava afundando:
+Ele queria saber o que tinha acontecido na Colônia São Jerônimo em 1979 e 1980, os dois anos sem registro, que terminaram com o fechamento do hospital. Passou meses atrás disso. Procurou ex-funcionários e quase todos estavam mortos. Os poucos vivos, quando ele perguntava sobre os últimos anos da Colônia, faziam a mesma coisa: ficavam em silêncio, franziam a testa como quem procura uma palavra e diziam que não lembravam. Não pareciam esconder nada. Pareciam **genuinamente não lembrar**, como se aqueles dois anos tivessem sido recortados das vidas deles.
 
-> *"A Agência Fresta vem a público reconhecer que a série 'A Lama Lembra', publicada em agosto de 2020, contém falhas metodológicas graves. Parte dos dados apresentados baseou-se em fonte não verificada de forma adequada, e as conclusões sobre a extensão da contaminação na região de Itaguaré não são sustentadas pelas evidências disponíveis. O repórter responsável, Thales Garcias Martins, reconhece os erros e pede desculpas aos moradores da cidade, que foram injustamente estigmatizados pela repercussão do material..."*
+Uma ex-enfermeira de oitenta e sete anos, **Dona Aparecida**, numa casa de repouso em Mairiporã, foi a única que chegou perto. Ela segurou a mão de Thales com força e falou como quem tenta pegar um peixe com a mão:
 
-*"Isso é mentira"*, ele disse. *"Cada palavra disso é mentira. Eu chequei tudo. Tem laudo, tem laboratório, tem depoimento, tem exame de sangue de vinte e sete crianças."*
+*"Teve uma coisa. No fim. Os internos começaram a desenhar. Todos. Nas paredes, com carvão, com giz, com unha. Desenhavam e apagavam e desenhavam de novo. A gente perguntava o que era e eles diziam que era 'o que eles esqueceram'. E aí..."* Ela parou. Ficou um tempo olhando para o vazio. *"E aí eu não lembro. Desculpa, moço. Eu sei que tinha mais. Eu sinto que tinha mais. Mas não tem nada lá."*
 
-*"Eu sei"*, disse Ivone. *"A gente leu tudo. Seu trabalho é impecável."*
+Ela bateu com o dedo na têmpora.
 
-*"Então por quê?"*
+*"É como uma coceira."*
 
-Ela tirou os óculos e limpou as lentes na barra do casaco. Thales depois aprendeu que ela fazia isso quando precisava dizer algo que não queria.
+O único documento que Thales encontrou sobre aqueles anos foi uma **carta**. Ela estava no fundo de uma caixa de correspondência administrativa de 1981, no mesmo arquivo, entre ofícios de compra de lençol e de remédio. Era uma folha datilografada, sem timbre de órgão público, endereçada ao diretor da Colônia, assinada por um psiquiatra chamado **Dr. Aurélio Sabará**. A carta tinha quatro parágrafos. Três deles estavam **em branco**: a folha datilografada tinha os espaços dos parágrafos, as margens, a pontuação no fim das linhas, mas nenhuma letra. Só o último parágrafo sobreviveu:
 
-*"Porque se o país acreditar que era mentira, o medo morre. Vira vergonha, vira esquecimento, vira 'ah, aquela fake news de Itaguaré'. E sem medo ela dorme. E sua mãe para de perder dias."*
+> *"...razão pela qual recomendo, em nome da organização que represento, o fechamento imediato da instituição, a dispersão dos internos remanescentes e, sobretudo, que nada do que ocorreu aqui seja registrado de forma apressada ou incompleta. Um horror mal esquecido é pior do que um horror lembrado. Peço que confie em nós."*
 
-*"E as crianças? A licitação da descontaminação abriu semana passada, Ivone. Saiu no Diário Oficial. Se essa errata sair, a empresa derruba a ação em três meses. Se a gente segurar seis meses, as máquinas começam a cavar. Seis meses, e aquela lama sai de Itaguaré pra sempre."*
+No rodapé da carta havia um símbolo pequeno, carimbado a tinta, que Thales não reconheceu. Ele fotografou o símbolo e passou semanas procurando por ele. Não achou nada em nenhum lugar, nem em livro, nem na internet, nem em arquivo.
 
-Ivone recolocou os óculos.
+Ele achou outra coisa: **Ivone Sabará**, filha do Dr. Aurélio. Tinha cinquenta e poucos anos e era arquivista concursada do próprio Arquivo Público do Estado, onde trabalhava havia vinte e dois anos. Era o mesmo arquivo de onde tinham saído as folhas em branco e a carta.
 
-*"Sua mãe não tem seis meses."*
+Ele também descobriu, por um registro de cartório, que o Dr. Aurélio tinha passado os últimos vinte e cinco anos de vida internado numa clínica particular de Campinas, com um diagnóstico vago de "síndrome amnésica progressiva". Tinha morrido em 2006 sem reconhecer a própria filha.
 
-Ela disse isso como um fato, e talvez fosse. Depois completou, com algo que poderia ser pena ou só cansaço:
+Thales leu isso duas vezes. Depois foi buscar o caderno e anotou, embaixo da cópia do último parágrafo da carta:
 
-*"Você tem duas lamas, Thales. Uma de chumbo e uma de outra coisa. Hoje, só dá pra salvar aquelas pessoas de uma das duas."*
+*"Organização que represento."*
 
-Ela se levantou, deixou a errata em cima da mesa e um cartão com um número de telefone, sem nome.
+*"Peço que confie em nós."*
 
-Na porta, antes de sair, ela disse a frase que Thales copiou no caderno naquela mesma noite, e que mais tarde viraria a ideia de *lucidez habitável*:
+*"Quem são 'nós'?"*
+
+---
+
+## Capítulo IX: A negociação (novembro de 2022)
+
+Ele não foi recrutado, foi ele quem foi atrás.
+
+No dia 8 de novembro de 2022, uma terça-feira, Thales entrou no Arquivo Público do Estado às nove da manhã, pediu para falar com a arquivista Ivone Sabará sobre "uma consulta ao acervo da Colônia São Jerônimo" e esperou numa sala de leitura vazia, com uma pasta de plástico azul no colo. Ele tinha pegado o hábito da pasta azul de Dona Marinalva.
+
+Ivone apareceu meia hora depois. Era uma mulher de cabelo grisalho preso num coque apertado, óculos de armação fina e casaco cinza, com a voz monótona de quem lê uma ata. Sentou-se do outro lado da mesa e esperou que ele falasse.
+
+Thales colocou na mesa, uma por uma, as coisas que tinha:
+- a cópia das folhas em branco de 1979 e 1980;
+- a foto da carta do pai dela, com o último parágrafo e o símbolo;
+- o registro da clínica de Campinas;
+- o depoimento de Dona Aparecida;
+- a foto das paredes do quarto de Rúben;
+- e, por último, a cópia das catorze páginas do hospital.
+
+Ivone leu tudo em silêncio, sem pressa, inclusive as catorze páginas. Thales viu o momento em que ela chegou na parte do capuz e na parte do lápis no papel. Ela não mudou de expressão, mas tirou os óculos e limpou as lentes na barra do casaco, devagar, e ele depois aprendeu que ela só faz isso quando está abalada.
+
+*"O que você quer?"*, ela perguntou.
+
+Era a pergunta que ele estava esperando. Ele tinha passado três semanas ensaiando a resposta.
+
+*"Eu quero saber o que estava do meu lado naquele corredor."*
+
+*"E se eu disser que não sei do que você está falando?"*
+
+*"Aí eu publico."*
+
+Era blefe, e os dois sabiam. Marta nunca publicaria aquilo. Mas Thales tinha aprendido no plantão que, numa negociação, a ameaça não precisa ser verdadeira, só precisa ser **cara demais para pagar para ver**.
+
+*"Publica o quê?"*, disse Ivone. *"Que você viu um rabisco pelo buraco de um capuz?"*
+
+*"Que existe uma organização que fechou um hospital psiquiátrico com mil internos em 1981 e apagou dois anos inteiros de registro público. Que deixou uma vala comum com centenas de pessoas sem nome embaixo de onde um esquadrão de extermínio enterrou dezenove garotos. Que o seu pai trabalhava pra ela e passou vinte e cinco anos sem lembrar o seu nome. E que você trabalha há vinte e dois anos no arquivo onde estão todos os papéis dessa história."*
+
+Ele não levantou a voz. Falou como falava com as mães no plantão, devagar e com respeito.
+
+*"Eu não quero destruir vocês, seja lá quem vocês forem. Eu acho que vocês sabem de coisas que precisam ser sabidas. Mas eu passei minha vida inteira dando nome pra quem foi apagado. Eu não vou deixar isso ser apagado também. Nem eu."*
+
+Ivone ficou em silêncio por muito tempo. Depois recolocou os óculos.
+
+*"Você sabe o que acontece com quem descobre o que você descobriu e não está do nosso lado?"*
+
+*"Imagino."*
+
+*"Não imagina. A gente não mata ninguém, senhor Martins. Seria mais simples se matasse."* Ela bateu com o dedo na própria têmpora, no mesmo lugar onde Dona Aparecida tinha batido. *"Às vezes a gente só não consegue impedir que as pessoas esqueçam."*
+
+Ela se levantou, recolheu os papéis da mesa com cuidado, de um jeito que lembrou a Thales a forma como Dona Cícera tinha segurado o crânio do filho, e colocou de volta na pasta azul.
+
+*"Amanhã, sete da manhã, neste endereço."* Ela escreveu num papel e entregou. *"Traga as catorze páginas originais. E, senhor Martins..."*
+
+*"Thales."*
+
+*"Thales. Aquela coisa no corredor. Você disse que não olhou pra ela."*
+
+*"Não olhei."*
+
+*"Continue não olhando."*
+
+---
+
+## Capítulo X: Agente (2023)
+
+O endereço era uma sala comercial no centro de São Paulo, no décimo primeiro andar de um prédio de escritórios, com uma placa de "Consultoria Documental" na porta. Foi ali que Thales soube que a organização se chamava **Ordem**. Ivone disse o nome como quem diz o nome de um parente difícil.
+
+Ele não soube muito mais do que isso no começo. A Ordem não explica as coisas de uma vez, e ele percebeu logo que não é por segredo, é por cuidado. Ninguém contou o que estava ao lado dele no corredor. Quando ele perguntou diretamente, um agente mais velho, de barba branca, respondeu só:
+
+*"Tem coisas que a gente sabe que existem. E tem coisas que a gente sabe que existem, mas que ficam piores quando a gente fala delas sem cuidado. Essa é da segunda lista."*
+
+Thales anotou a frase no caderno. Até hoje ele não sabe o nome daquilo, e acha que a Ordem sabe.
+
+**O treinamento** foi duro e curto. Ele não tinha corpo de combatente, nunca teve, e ninguém tentou transformá-lo em um. A Ordem o olhou e viu o que Seu Ednaldo tinha visto dez anos antes: um homem com cara de padre, para quem as pessoas contam coisas. Ele foi treinado como **Especialista**, na trilha de **Negociador**. Aprendeu a usar o que já sabia, o silêncio, a paciência e a escuta, com gente que não era só gente, e em situações em que errar uma frase podia matar alguém.
+
+**O revólver pesado** ele já tinha antes da Ordem. Comprou em julho de 2022, com porte de jornalista ameaçado, depois de o carro sem placa voltar a passar devagar na frente da quitinete dele, mesmo com Saraiva morto. Treinou num estande de Osasco até conseguir acertar o alvo sem fechar os olhos. Odiava a arma e continua odiando. Carrega o revólver na mochila, nunca na cintura, embaixo do caderno, para ter que **tirar o caderno do caminho** antes de chegar a ele.
+
+**A espingarda de cano duplo curta** chegou de outro jeito. Em março de 2023, um ano depois da Colônia, Ivone o chamou na sala dela e colocou um embrulho de lona na mesa. Dentro estava a espingarda de Rúben, a mesma que tinha disparado dois tiros no nada no corredor. Tinha sumido do depósito de provas da polícia meses antes e ido parar com a Ordem, como muitas coisas daquele lugar.
+
+*"Ela estava apontada pra sua cabeça"*, disse Ivone. *"Achei que você devia decidir o que fazer com ela."*
+
+Thales ficou olhando a arma por muito tempo. Depois a pegou. Mandou serrar mais dois dedos do cano, trocou a coronha e a carrega desde então. Quando alguém pergunta por que um negociador anda com uma espingarda, ele responde que ela serve para lembrar que, do outro lado de toda conversa, tem alguém que já desistiu de conversar.
+
+**As primeiras missões** confirmaram o que todo mundo já desconfiava: ele é bom nisso.
+
+Em maio de 2023, numa cidade do interior de Minas, ele passou seis horas sentado no chão da cozinha de uma família que escondia o filho adolescente trancado no porão. Do porão vinham sons que não eram de um adolescente. A mãe estava armada com uma faca de carne e não deixava ninguém chegar perto da porta. Thales não falou do filho nem do porão. Perguntou da receita do bolo que estava esfriando na mesa. Depois do marido. Depois da infância dela. Na quinta hora, ela largou a faca sozinha e chorou. Na sexta, abriu a porta.
+
+Em setembro, numa ocupação no centro de São Paulo, ele convenceu um homem de setenta anos, ex-integrante de um grupo de cultistas, a entregar um objeto que guardava embrulhado num pano debaixo do colchão. O homem tinha certeza de que o objeto era a única coisa que mantinha a falecida esposa "por perto". Thales não discutiu a crença dele. Disse apenas: *"Eu também guardo coisas pra não esquecer de gente. Mas a gente precisa ter certeza de que o que a gente guarda tá guardando a gente também."* O homem pensou nisso por dois dias e depois ligou.
+
+Em novembro, numa operação que deu errado no litoral, ele usou o revólver pela primeira vez contra uma coisa que não era mais uma pessoa. Errou os três primeiros tiros e acertou o quarto. Voltou para casa e não dormiu por três dias, com a luz acesa.
+
+**A Versão 0.3.** Foi em 2023, entre uma missão e outra, que ele reescreveu a filosofia inteira. A Versão 0.2, de 2019, era a de um repórter que acreditava em uma coisa só: *a verdade publicada liberta*. A frase ainda está na primeira página do caderno, a caneta, com um risco por cima. Ele não a apagou, riscou, para continuar vendo o que tinha acreditado.
+
+A Versão 0.3 é diferente. Tem a seção sobre **Cegueira do Rascunho**, porque ele percebeu que passou meses aceitando a explicação suficiente da terapia e da polícia para não encarar o resto. Tem a seção sobre **colapso e reconstrução**, porque foi o que ele viveu. Tem a seção sobre fé, porque ele ainda carrega o terço da avó e às vezes reza, sem saber se acredita. E tem a ideia de **lucidez habitável**, que veio de uma frase que Ivone disse a ele num dia ruim:
 
 *"Ninguém mora na lucidez inteira, Thales. A gente escolhe um cômodo onde dá pra viver."*
 
----
+Ele percebeu também, relendo o caderno, uma coincidência que não sabe se é coincidência. Ele chama a filosofia de **Rascunho** desde 2013: *a construção de sentido que a gente faz, apaga e refaz, sem nunca terminar*. E a coisa que estava ao lado dele no corredor parecia exatamente isso, um desenho feito, apagado e refeito, sem nunca terminar.
 
-## Capítulo XI: Dezenove dias
-
-Thales levou dezenove dias para decidir. Foram os piores da vida dele.
-
-Ele leu e releu a pasta de Ivone procurando um erro, como faria com qualquer documento. Encontrou só aquele ponto de março de 2022, com o ponto de interrogação ao lado, e não soube o que fazer com ele. Uma vírgula fora do lugar não derruba um gráfico inteiro. Ele mesmo tinha dito isso a Helena, anos antes, no sentido contrário.
-
-Abriu o caderno e tentou aplicar a própria filosofia ao problema. Escreveu a lápis, apagou e escreveu de novo.
-
-*"A seção 7 diz que o conhecimento liberta. Mas e se o conhecimento alimenta?"*
-
-*"A seção 4 diz que a gente precisa reconhecer as condições materiais. As crianças têm chumbo no sangue. Isso é a lama mais concreta que existe."*
-
-*"Qual consequência eu escolho? Quem eu condeno?"*
-
-Foi nessa época que ele escreveu a **seção 13**, sobre consequências. Antes dela, a filosofia não tinha uma parte sobre o peso de ter que escolher o dano que vai causar.
-
-Fez uma lista, porque era o que sabia fazer.
-
-**Se eu não assinar:**
-- A matéria continua sendo compartilhada.
-- Minha mãe continua perdendo dias. Talvez morra em meses.
-- A ação continua. As máquinas chegam. A lama vai embora.
-
-**Se eu assinar:**
-- O medo vira vergonha. Segundo a Ivone, a coisa dorme.
-- Minha mãe para de perder dias. Não recupera os que perdeu.
-- A empresa derruba a ação. A lama fica. As crianças continuam se contaminando, devagar, por décadas, do jeito que eu me contaminei.
-- Helena é destruída. Marta é destruída. Eu sou destruído, e isso é o que menos importa.
-- E a verdade vira mentira, com a minha assinatura.
-
-Na terceira noite, o telefone tocou às onze da noite. Era a mãe.
-
-Lúcia nunca ligava à noite. Ligava aos domingos, depois do almoço, porque a ligação era mais barata. Mas era a voz dela, um pouco diferente, mais firme, como a de uma mulher mais nova.
-
-*"Thales? Cadê você, meu filho? Tá tarde. Volta pra casa."*
-
-Ele tentou conversar, e ela não respondia às perguntas, só repetia, carinhosa, sem pressa: *volta pra casa.* Depois desligou.
-
-Na noite seguinte, ela ligou de novo, e na outra também. Todas as noites daqueles dezenove dias, sempre perto das onze, sempre com a voz de 1997. A vizinha que cuidava dela confirmou: Lúcia acordava, ia até o telefone sem acender a luz, ligava para o filho e voltava a dormir. De manhã não lembrava.
-
-Thales anotou cada ligação no caderno: data, hora, duração e o que ela disse. Escreveu também, no canto da página, como faria em qualquer apuração: *"Nunca ligou à noite antes de setembro."* E então parou de escrever, porque não sabia o que vinha depois dessa frase.
-
-Durante aqueles dezenove dias, a vizinha mandava notícias que pioravam. Lúcia perdeu dois dias numa semana e quatro na outra. Passou a pôr a mesa para quatro todas as noites. Parou de reconhecer a vizinha. Num sábado, saiu de casa de madrugada e foi encontrada na beira da várzea, de camisola, com os pés na lama, **entre duas estacas amarelas**, sorrindo.
-
-No décimo nono dia, às sete da manhã, o telefone tocou de novo. Nunca tinha tocado de manhã.
-
-*"Pisa onde eu pisei, filho"*, disse a mãe, com a voz mais jovem que ele já tinha ouvido dela. *"Volta. Só volta."*
-
-Ele desligou e ligou para o número do cartão. Ivone atendeu no primeiro toque, como se estivesse esperando acordada.
-
-*"Eu assino."*
-
-*"Tá bom."*
-
-*"Mas eu tenho uma condição."*
-
-*"Fala."*
-
-*"Eu não vou ser mais um que entrega os olhos. Se eu entrar nessa organização de vocês, eu entro com o caderno. Eu pergunto. Eu anoto. Eu julgo. Vocês não vão virar o meu bezerro de ouro."*
-
-Houve um silêncio longo do outro lado da linha. Depois Ivone fez um som que ele demorou a reconhecer como uma risada curta e seca.
-
-*"Ótimo. Os que obedecem sem perguntar morrem primeiro."*
-
----
-
-## Capítulo XII: A errata (novembro de 2023)
-
-A parte mais difícil não foi assinar, foi **mentir para Marta**.
-
-A errata precisava sair pela própria Fresta, com a assinatura da editora, para ser crível. Thales marcou uma reunião com Marta numa sexta-feira à noite, na sala dela, com a porta fechada. Levou a errata impressa e um roteiro de mentiras que tinha ensaiado por três dias. Disse que tinha "inflado" dados, que uma das amostras do laboratório tinha sido contaminada e que ele sabia disso desde o começo. Disse que o depoimento de Seu Benedito era vago e que ele tinha "preenchido as lacunas". Disse que tinha feito isso porque era a cidade dele, porque queria que alguém prestasse atenção, porque estava com raiva.
-
-Marta ouviu tudo sem interromper. Ela conhecia Thales havia seis anos. Sabia que ele checava tudo três vezes e escrevia a lápis porque tinha medo de errar. Sabia que aquele homem não inventava dados.
-
-Ele viu nos olhos dela que ela sabia que ele estava mentindo e que não sabia por quê. Viu também o momento exato em que ela **decidiu não perguntar**. Foi rápido: um piscar mais lento, uma respiração. Ela escolheu acreditar na versão que dava menos trabalho de olhar.
-
-Ela assinou a errata sem dizer uma palavra. Depois pediu que ele saísse da sala e nunca mais falou com ele.
-
-A errata foi publicada em **9 de novembro de 2023**, numa quinta-feira, às dez da manhã.
-
-A repercussão foi o contrário da série. Os mesmos jornais que tinham reproduzido *A Lama Lembra* reproduziram a errata, com mais destaque: **"Agência admite que série premiada sobre contaminação era falsa."** Caio Vasques fez um vídeo de vinte minutos dizendo que "sempre soube que tinha algo estranho". O lado político que defendia Osmar Prestes comemorou. O outro lado ficou em silêncio e depois esqueceu.
-
-O medo, exatamente como Ivone tinha previsto, **virou vergonha**. Itaguaré deixou de ser "a cidade amaldiçoada" e virou "aquela fake news". As pessoas pararam de compartilhar e de ter medo. Passaram a sentir um pouco de constrangimento por ter acreditado, e depois esqueceram.
-
-Naquela mesma noite, Lúcia não ligou.
-
-Nem na noite seguinte, nem em nenhuma outra. A vizinha contou que ela dormiu catorze horas seguidas e acordou com fome, a fome normal de uma senhora que dormiu demais. Pediu pão com manteiga e perguntou que dia era. Era o dia certo.
-
-Os relógios da Várzea pararam de amanhecer parados. Seu Valdir disse no bar que o rio estava correndo de novo, e pela primeira vez ninguém riu.
-
-Ivone ligou para Thales uma semana depois, com a voz satisfeita de quem confirma uma hipótese.
-
-*"Ela dormiu."*
-
-Thales imprimiu a errata e a dobrou em quatro. No bolso direito da calça já estava a primeira página impressa de *A Lama Lembra*, que ele carregava desde 2020. Pôs a errata no bolso esquerdo.
-
-Naquela noite, sem conseguir dormir, abriu o caderno nas onze páginas. Foi direto ao canto da primeira página, onde em julho tinha passado a borracha e apagado duas palavras.
-
-As duas palavras **tinham voltado**, no mesmo lugar, com a mesma letra. Ele pegou a borracha e esfregou. Esfregou até a borracha esfarelar e o papel ficar quente. O grafite não saiu. Parecia estar **dentro** da fibra do papel, e não em cima dela.
-
-Na manhã seguinte, ele desdobrou a errata para relê-la, como quem confere uma ferida, e encontrou uma coisa que não estava ali quando imprimiu.
-
-No canto inferior direito da folha, na margem branca, quase apagada, numa fonte que não era a da errata, mas a da série original, havia quatro palavras:
-
-*62% das crianças da*
-
-A frase parava ali, no meio, como uma frase que alguém tentou apagar e não terminou de apagar.
-
----
-
-## Capítulo XIII: O preço (2024)
-
-O preço veio em parcelas, como sempre vem.
-
-**A Serra Velha** entrou com um pedido de extinção da ação civil pública em dezembro de 2023, anexando a errata como prova principal: *"o próprio veículo responsável pela denúncia reconheceu a falsidade das informações"*. O juiz pediu nova perícia. A nova perícia foi "inconclusiva". Em **fevereiro de 2024**, a ação foi extinta. A descontaminação foi cancelada, assim como o acompanhamento médico das crianças.
-
-Na semana seguinte, uma caminhonete da empresa de engenharia passou pela Várzea para recolher as estacas amarelas que restavam. Lúcia assistiu da janela da cozinha. Quando a caminhonete foi embora, ela disse, sem se virar, numa voz calma e quase alegre:
-
-*"Agora sim. Agora deixaram a gente em paz."*
-
-Naquela noite, ela pôs a mesa para três. O prato dela, o do filho e um terceiro, na cabeceira, onde ninguém se sentava havia vinte e sete anos. Thales não comentou. Lúcia também não. Ela estava melhor naquela semana do que tinha estado em dois anos: corada, falante, rindo das novelas. Os vizinhos comentaram que nunca a tinham visto tão bem.
-
-O chumbo continua na Várzea, debaixo das casas, dos quintais e das hortas.
-
-**A Dra. Helena Paiva** foi denunciada ao Conselho Regional de Medicina por "alarmismo e divulgação de dados sem rigor científico" por um vereador de Itaguaré: Osmar Prestes, o mesmo que tinha engavetado o laudo de 2003. Foi afastada do posto de saúde e mudou para Registro, onde atende num consultório particular por um preço que as famílias da Várzea não conseguem pagar.
-
-Ela mandou uma única mensagem para Thales depois da errata, de quatro palavras: *"Você sabe que mentiu."* Ele não respondeu.
-
-**A Agência Fresta** quase fechou. Perdeu metade dos doadores e duas fundações. Marta foi afastada da direção pelo conselho e continua lá como editora, sem cargo de chefia. No meio jornalístico, o nome dele virou um verbo: *"não vai thalear essa matéria"* significa *"não vai inventar dado"*.
-
-**Itaguaré**, de um jeito estranho, ficou melhor. O estigma acabou. As pessoas voltaram a conseguir emprego, a fábrica que tinha desistido reabriu as negociações, e as crianças pararam de ser chamadas de "filhos do chumbo" na escola. A mentira de Thales resolveu um problema real.
-
-Mas a cidade não o perdoou. Para a maioria, ele é o jornalista que mentiu sobre eles. Quando ele visita a mãe, as pessoas atravessam a rua.
-
-**Seu Benedito Prado** morreu em dezembro de 2023, sentado na varanda. A filha o encontrou de manhã com o cigarro de palha ainda aceso entre os dedos, embora ela tivesse certeza de que ele tinha acendido aquele cigarro na noite anterior. Ele estava com o braço levantado e o dedo torto apontando para a Várzea. A boca estava aberta no meio de uma palavra.
-
----
-
-Depois da errata, as coisas começaram a acontecer de outro jeito, menores e mais estranhas, e Thales demorou para perceber que não eram a mesma coisa de antes.
-
-A primeira foi no site da Fresta.
-
-A série *A Lama Lembra* continuava arquivada, com a errata em vermelho no topo. Numa segunda-feira de dezembro, relendo a primeira parte como quem visita um túmulo, Thales parou numa frase que conhecia de cor e percebeu que ela estava diferente:
-
-*"...Pedro Henrique, 7 anos, e Maria Eduarda, 11, têm dificuldade para..."*
-
-Faltava um nome. Antes de Pedro Henrique, a frase original dizia *"Yasmin, 9 anos"*. Não havia espaço em branco, vírgula sobrando ou marca de edição. A frase tinha se fechado sobre o nome, como água sobre uma pedra. Ele conferiu o histórico de edições do site com a equipe técnica da Fresta, por meio de um amigo que ainda falava com ele, e o sistema dizia que aquele texto não era alterado desde novembro.
-
-Na segunda-feira seguinte, outro nome tinha sumido. E na outra. Toda semana, **um nome**.
-
-Thales foi a Itaguaré procurar Yasmin.
-
-Ela estava viva e bem, uma menina de treze anos, magra, de óculos, mexendo no celular no sofá. A mãe dela recebeu Thales com desconfiança. Ofereceu café, mas não ofereceu nada para a filha. Quando a menina pediu um copo d'água, a mãe pareceu se assustar por um segundo, como quem ouve um barulho numa casa vazia, e depois foi buscar.
-
-Na hora do almoço, a mãe pôs a mesa. Pôs dois pratos: o dela e o do marido. Yasmin olhou para a mesa e não disse nada, e foi buscar o próprio prato no armário, com a naturalidade de quem já fez isso muitas vezes.
-
-*"Na escola também"*, a menina contou depois, baixinho, na porta. *"A professora pula meu nome na chamada. Aí eu levanto a mão e ela pede desculpa. Todo dia."*
-
-Thales não sabia o que fazer, então fez a única coisa que sabia. Sentou-se com a mãe de Yasmin na cozinha e contou a verdade. Contou que a errata era mentira, que os exames eram verdadeiros e que a filha dela tinha chumbo no sangue, e falou do nome dela na série, que ela mesma tinha autorizado, na mesma mesa, em 2020. Ele não conseguiu terminar sem chorar. A mãe de Yasmin também chorou, sem entender direito por quê.
-
-Naquela noite, no site da Fresta, a frase tinha mudado de novo: *"Yasmin, 9 anos, Pedro Henrique, 7 anos..."*. O nome tinha voltado.
-
-Durou até a segunda-feira seguinte.
-
----
-
-A segunda coisa foram os papéis.
-
-As quatro palavras no canto da errata impressa não pararam. Toda semana surgia uma frase nova da série original, na margem, fraca, como grafite velho, sempre interrompida no meio. *"Vocês moravam em"*. *"o laudo foi carimbado, protocolado e"*. *"a lama em"*. Thales percebeu que elas só apareciam **na sombra**. Se ele desdobrasse a errata ao sol, a margem estava limpa e branca. Na sombra de uma árvore, debaixo da mesa ou à luz fraca da quitinete, as frases estavam lá.
-
-Ele começou a encontrar **farelos de borracha** no travesseiro de manhã, pequenos rolinhos cinzentos, os que sobram quando alguém apaga muito. Ele não apaga nada na cama. Trocou a fronha e, na manhã seguinte, havia mais.
-
-Em março de 2024, depois de quatro meses de silêncio, Marta mandou uma mensagem. Era uma foto: a errata impressa, pendurada no mural da sala dela na Fresta, como ela tinha deixado desde novembro, como castigo para si mesma. Na margem da folha, em letra de grafite, havia um parágrafo inteiro da parte 3 da série. Embaixo da foto, três palavras:
-
-*"Foi você? Responde."*
-
-Ele não respondeu. Duas semanas depois, ela mandou outra mensagem, mais curta:
-
-*"Tem farelo de borracha na minha cama."*
-
-Também não respondeu. Não sabia o que dizer que não fosse uma mentira nova ou uma verdade que ela não ia acreditar.
-
-A terceira mensagem veio em maio, de madrugada, sem foto:
-
-*"Metade das mesas aqui estão vazias desde que os doadores foram embora. O vigia diz que ouve alguém andando no corredor do arquivo à noite. Quando ele acende a luz, não tem ninguém. Hoje a impressora imprimiu sozinha às três da manhã. A parte 1 inteira. Com espaço em branco no lugar dos nomes."*
-
-Ele leu a mensagem no escuro da quitinete e ficou um tempo olhando para o corredor da redação que conhecia de cor: as mesas vazias, o arquivo no fundo, as luzes apagadas. Um lugar que as pessoas tinham abandonado, e no qual já ninguém acreditava.
-
-Em abril, numa sessão da Câmara Municipal de Itaguaré, o vereador **Osmar Prestes** levantou-se para discursar sobre o asfalto da estrada. Ficou em pé, com o papel na mão, olhando para a folha. Ficou assim por quase dois minutos, em silêncio, até o presidente da Câmara perguntar se ele estava bem. Um assessor tirou a folha da mão dele e, mais tarde, contou aos colegas que o discurso estava em branco. Não havia nada escrito, exceto, no canto inferior, em letra miúda, duas palavras repetidas até o fim da margem:
-
-*não lembro não lembro não lembro não lembro não lembro*
-
-Prestes saiu da Câmara amparado e não voltou mais às sessões. A família diz que ele está descansando.
-
----
-
-A terceira coisa foi Kauã.
-
-O menino tinha agora nove anos e continuava desenhando, mas os desenhos mudaram depois de novembro. A figura de rabiscos marrons que anda atrás das pessoas desapareceu. No lugar dela surgiu outra coisa, que Kauã desenha **sempre na margem do papel**, nunca no meio. É uma forma alta e estreita, feita de linhas apagadas, como um desenho que alguém começou, apagou e recomeçou várias vezes no mesmo lugar, com os traços velhos ainda aparecendo por baixo. Ela nunca está de frente: está sempre de lado, olhando para fora da folha.
-
-A mãe dele mostrou os desenhos a Thales numa visita de março. Ele perguntou ao menino o que era.
-
-*"É o moço que fica do lado"*, disse Kauã, sem tirar os olhos do papel.
-
-*"Do lado de quem?"*
-
-*"De quem não quer olhar."* Ele pensou um pouco. *"Eu desenho ele de lado porque se olhar direito ele vira borracha. Tem que olhar assim."* E virou a cabeça e olhou para Thales pelo canto do olho, como as crianças olham quando estão brincando de esconde-esconde.
-
-Thales notou outra coisa: Kauã desenhava sempre debaixo da mesa da cozinha, na sombra, ou no quarto com a cortina fechada. Quando a mãe o mandava desenhar na varanda, no sol, ele desenhava casas e cachorros.
-
-*"No sol ele não fica"*, o menino explicou, como quem explica uma regra de futebol.
-
-Antes de Thales ir embora, Kauã puxou a manga dele e disse mais uma coisa, baixinho, para a mãe não ouvir:
-
-*"Às vezes ele fica parado no canto do meu quarto. Mas só quando eu não tô olhando. Quando eu olho, o canto tá vazio. Mas a coceira fica."*
-
-Ele apontou para a própria nuca.
-
----
-
-E havia o próprio Thales.
-
-Em janeiro de 2024, andando pela beira do rio com a mãe num fim de tarde, ele pisou num trecho de barro mole e olhou para trás por hábito. A pegada dele não estava lá. Ele parou e olhou. Um segundo depois, devagar, o barro afundou sozinho, no lugar exato onde ele tinha pisado, com a forma exata da bota dele, **como se alguém tivesse pisado ali logo depois**.
-
-Ele disse a si mesmo que era o barro assentando, que barro mole demora a afundar. Anotou no caderno, com a data, e escreveu ao lado: *"barro assentando?"*
-
-Aconteceu de novo em fevereiro e duas vezes em março. Em abril ele parou de anotar.
-
-Nas noites frias, as canelas dele doem com um frio que vem de dentro do osso. É o mesmo frio da manhã de 1997. O médico explicou anos atrás que o chumbo fica guardado nos ossos por trinta, quarenta anos, e que o corpo dele ainda tem a enchente dentro. Thales lembra dessa frase às vezes, quando acorda com as pernas geladas, e prefere não pensar nela até o fim.
-
-As crianças da Várzea também reclamam de dor nas canelas à noite. Os pais acham que é dor de crescimento.
-
-Na quitinete, as coisas mudam de lugar, mas nunca enquanto ele olha. Ele vira as costas para fazer café e, quando se vira de novo, o lápis está no chão, do outro lado do quarto, longe demais para ter rolado da mesa. A cadeira está afastada da mesa alguns centímetros, como se alguém tivesse acabado de se levantar. O celular, quando ele lê a série arquivada, pisca e escurece a tela sozinho, sempre no mesmo parágrafo, o dos nomes.
-
-Uma noite, deitado de costas para a mesa, ele ouviu o caderno cair no chão. Não se virou. Ficou ouvindo, por muito tempo, o som pequeno e paciente de páginas sendo viradas uma por uma, sem nenhum vento no quarto. Quando o som parou, ele contou até cem e acendeu a luz.
-
-O caderno estava no chão, aberto nas onze páginas. Não havia mais ninguém no quarto. Mas havia aquilo que ele depois chamou no caderno de *a coceira*: um incômodo no fundo da cabeça, como uma palavra na ponta da língua que nunca chega. Desde aquela noite, ela não passou.
-
----
-
-E houve a Ordem.
-
-Thales assinou mais do que a errata em outubro de 2023. Ivone o levou para dentro, como tinha prometido. Ele não entrou por coragem, entrou porque depois do que viu não conseguia mais fingir que não tinha visto. Também entrou porque queria entender, e porque não tinha mais profissão.
-
-O treinamento foi rápido e duro. Ele não virou combatente, e ninguém esperava isso. O talento dele era o de sempre: **fazer as pessoas falarem**. A Ordem o colocou como **Especialista**, na trilha de **Negociador**. Ao longo do primeiro semestre de 2024, ele foi mandado para outras ocorrências, sempre com a mesma função: conversar com quem ninguém conseguia conversar. Cultistas encurralados, famílias que escondiam alguém, testemunhas em choque. Ele é bom nisso porque não odeia ninguém. Olha para um fanático e vê alguém que trocou o rascunho por uma resposta pronta.
-
-**O revólver pesado** foi presente de Ivone no primeiro dia, numa caixa de sapato com as balas soltas.
-
-*"Negociador que não tem nada na mão negocia mal. A outra pessoa precisa saber que você escolheu não atirar."*
-
-Thales treinou até conseguir acertar o alvo sem fechar os olhos. Ele nunca guarda o revólver na cintura, guarda na mochila, embaixo do caderno, porque assim precisa **tirar o caderno do caminho** antes de chegar a ele.
-
-**A espingarda de cano duplo curta** era do avô, Seu Sebastião Garcias, marido de Dona Cida, que morreu antes de Thales nascer. Ficou anos embrulhada num lençol embaixo da cama de Lúcia. Em janeiro de 2024, numa tarde lúcida, a mãe pediu que ele a puxasse de lá. Seu Valdir serrou o cano no quintal, sem perguntar para quê.
-
-*"Teu avô dizia que tem coisa que só se resolve de perto"*, disse Lúcia, entregando a arma ao filho como quem entrega um guarda-chuva. *"Mas ele nunca precisou usar. Tomara que você também não."*
-
----
-
-## Capítulo XIV: A Versão 0.3
-
-Em janeiro de 2024, depois de dois meses sem conseguir escrever nada, Thales sentou-se na quitinete numa madrugada de chuva, abriu o caderno numa página nova depois da Versão 0.2 e começou a reconstruir.
-
-Escreveu durante seis semanas, a lápis, devagar, apagando muito. Algumas seções levaram dias. A parte sobre **Cegueira do Rascunho** ele reescreveu onze vezes, e só percebeu o número depois.
-
-A Versão 0.3 é a filosofia que está no caderno hoje. Thales nunca menciona Itaguaré, a errata ou nada do que viu. Mas está tudo lá, por baixo das palavras:
-
-- **"A lama"** é a várzea, o chumbo, a enchente.
-- **"A distância entre consciência e possibilidade"** são as crianças da Várzea, que sabem que estão doentes e não têm como sair.
-- **"A miséria intelectual"** é ele mesmo aos sete anos, lendo a mesma página quatro vezes.
-- **"Os bezerros de ouro"** são Caio Vasques e as torcidas de 2022.
-- **"A Cegueira do Rascunho"** é a explicação do chumbo, que ele usou para não ver o resto. Ele escreveu: *"diferenciar não querer enxergar, não saber interpretar e nunca ter tido acesso à informação."* Ao lado, a lápis, uma anotação que ele apagou e reescreveu várias vezes: *"E quando quem não quer enxergar é a instituição que deveria enxergar por você?"* Ele não sabe direito em quem estava pensando quando escreveu isso.
-- **"O colapso do Rascunho Central"** é a frase *"a verdade publicada liberta"*, que ele riscou na primeira página do caderno. Não apagou, riscou, para continuar vendo o que tinha acreditado.
-- **"A seção 13, sobre consequências"** é a errata.
-- **"Lucidez habitável"** vem da frase de Ivone sobre o cômodo onde dá para viver.
-
-Quando terminou, no fim de fevereiro de 2024, ele voltou à primeira página da nova versão para escrever o cabeçalho, como sempre fazia: título, versão, data. Escreveu sem pensar, com a mão no automático:
-
-**FILOSOFIA DO RASCUNHO — Versão 0.3 — Documento consolidado**
-**Status: Em desenvolvimento**
-**Atualização: Novembro de 2026**
-
-Ele só percebeu dias depois, relendo. Apagou e escreveu "Fevereiro de 2024" por cima.
-
-Na manhã seguinte, a data tinha voltado. Ele não lembra de ter reescrito.
-
-Hoje ele não apaga mais.
-
-Em abril, sem conseguir dormir, ele fez uma coisa que vinha evitando. Abriu a série no site da Fresta e **contou os nomes que restavam**. Depois contou quantos já tinham sumido, um por semana, desde a primeira segunda-feira depois da errata. Fez a conta no verso de um envelope de conta de luz: cento e cinquenta e cinco nomes, um por semana, a partir de novembro de 2023.
-
-O último nome sumiria em **novembro de 2026**.
-
-Ele ficou olhando o envelope por muito tempo. Depois foi até o caderno e olhou o cabeçalho que não apaga.
-
-Não escreveu nada naquela noite.
-
----
-
-## Capítulo XV: As onze páginas
-
-No fim do caderno, depois de várias folhas em branco, ficam as **onze páginas que não apagam**.
-
-Thales leu as onze páginas inteiras uma única vez, em agosto de 2023. Hoje não lê mais de uma vez só. Às vezes abre numa delas, lê um parágrafo e fecha.
-
-O texto é a Filosofia do Rascunho, mas completa, sem seções "em desenvolvimento", sem perguntas abertas e sem dúvida. Todas as questões que Thales deixou abertas estão respondidas, e as respostas são lindas, lógicas e coerentes, escritas exatamente no estilo dele, com as palavras que ele usaria. Mas o texto inteiro aponta para uma direção que ele nunca seguiria sozinho: **para trás**.
-
-Algumas frases ele sabe de cor, mesmo sem querer:
-
-> *"O ser humano não procura o Sol. Procura o lugar onde já foi feliz. O Sol é só o nome que ele dá a esse lugar quando ainda não sabe que ele ficou para trás."*
-
-> *"Ninguém precisa encontrar o caminho. O caminho já foi feito. Basta pisar de novo onde se pisou."*
-
-> *"A angústia humana não é a lama. É a pressa de sair dela. Quem para de andar descobre que a lama é quente por baixo."*
-
-> *"Toda mesa tem um lugar vazio. A Versão Final é a mesa cheia."*
-
-> *"O Rascunho termina quando a pessoa aceita ficar."*
-
-É o oposto de tudo em que ele acredita. É uma *resposta confortável* com a forma exata de uma *resposta suficiente*.
-
-E desde novembro as páginas mudaram.
-
-Nas margens, entre os parágrafos, começaram a aparecer **trechos riscados**. São frases da série original, *A Lama Lembra*, escritas em letra de imprensa e cortadas com um traço de lápis por cima, como se alguém as tivesse escrito e depois tentado apagá-las sem conseguir. *"Vinte e sete das quarenta e três crianças."* *"Vocês moravam em cima."* *"A lama lembra."* Cada semana há uma a mais. Como a errata no bolso dele, elas só aparecem na sombra.
-
-Thales percebeu também uma coisa que não consegue explicar. Quando lê aquelas páginas à noite, à luz do abajur, ele sente que **tem alguém lendo junto**, do lado esquerdo, um pouco atrás do ombro. Não é uma presença ameaçadora, é paciente, como alguém que espera a vez de virar a página. Se ele vira a cabeça, não há ninguém. Se olha de lado, pelo canto do olho, como Kauã ensinou, ele quase vê uma forma alta e estreita, cheia de traços apagados.
-
-Ele parou de virar a cabeça.
-
-O que mais assusta Thales não é ter escrito aquelas páginas sem lembrar. O que mais assusta é que, em algumas noites, cansado, culpado e sozinho na quitinete, ele relê *"Toda mesa tem um lugar vazio"*, pensa na mãe sentada na cozinha de Itaguaré, sorrindo para a cadeira da cabeceira, e **uma parte dele entende**.
-
----
-
-## Capítulo XVI: O dossiê (maio de 2024)
-
-Helena Paiva marcou o encontro num café de Registro, numa tarde de chuva, e chegou com uma pasta mais grossa que a de Ivone.
-
-Ela tinha envelhecido. Não do jeito de Lúcia, mas do jeito normal de alguém que perdeu o emprego, a reputação e o sono ao mesmo tempo. Tinha o cabelo preso de qualquer jeito e as unhas roídas. Não pediu café. Abriu a pasta em cima da mesa e começou a falar antes que ele sentasse.
-
-Durante oito meses, por conta própria, Helena tinha refeito tudo. Coletou sangue de trinta e uma crianças da Várzea, pagando os exames do próprio bolso, em laboratórios de três cidades diferentes para ninguém dizer que era um laboratório só. Os níveis de chumbo estavam iguais ou piores que em 2019. Ela conseguiu, com um técnico aposentado da CETESB, uma cópia dos resultados das sondagens de 2021 e 2022, que nunca tinham sido divulgados e confirmavam tudo. Conseguiu o depoimento gravado de um segundo ex-funcionário da mina, que confirmava o de Seu Benedito. Tinha até uma cópia do laudo de 2003 com a assinatura de Osmar Prestes no despacho de arquivamento.
-
-*"Está tudo aqui"*, ela disse. *"Está tudo certo. Sempre esteve. Você sabe disso."*
-
-Thales não respondeu.
-
-*"Eu vou publicar"*, ela continuou. *"Com um jornal grande, já conversei. E vou entrar com uma nova representação no Ministério Público. Com isso aqui, a ação volta. A descontaminação volta. As máquinas vêm."*
-
-Ela empurrou uma folha em direção a ele. Era uma declaração, curta, de meia página, para ele assinar, dizendo que a errata de novembro de 2023 tinha sido publicada sob coação e que a série original era verdadeira.
-
-*"Só falta você. Se o próprio autor disser que a errata é mentira, ninguém consegue derrubar de novo. Sem você, eles vão dizer que eu sou uma médica louca que não aceitou ser desmentida."*
-
-Thales olhou a folha. Pensou em Yasmin buscando o próprio prato no armário. Pensou nos nomes que sumiam toda segunda-feira e no nome que tinha voltado por um dia, na noite em que ele chorou na cozinha da mãe dela. Pensou na margem da errata, nas frases que só apareciam na sombra, em Marta acordando com farelos de borracha no travesseiro, em Osmar Prestes de pé na Câmara diante de uma folha em branco.
-
-Pensou que lembrar, lembrar de verdade, com o peso inteiro, talvez fosse a única coisa capaz de fazer aquilo parar.
-
-E pensou na mãe.
-
-Pensou na segunda-feira em que a errata saiu e o telefone parou de tocar. Pensou em Lúcia dormindo catorze horas e acordando com uma fome normal. Pensou nela corada, rindo das novelas, na semana em que as estacas foram recolhidas. Pensou na frase de Ivone: *"sem medo ela dorme"*. Se Helena publicasse, o medo voltaria. O país inteiro olharia para Itaguaré de novo. As máquinas viriam.
-
-E ele não conseguia saber, de verdade, o que aconteceria com a mãe dele quando as máquinas chegassem.
-
-*"Eu não posso assinar isso agora"*, ele disse.
-
-Helena olhou para ele por muito tempo. Não com raiva, era pior: era como quem olha um paciente que se recusa a fazer um exame.
-
-*"Eu vou publicar em agosto"*, ela disse. *"Dia 17. Quatro anos da série. Com você ou sem você."*
-
-Ela recolheu a pasta, deixou a declaração em cima da mesa e foi embora.
-
-Thales ficou sentado no café até escurecer. Guardou a declaração dobrada no caderno, entre a Versão 0.3 e as onze páginas, e saiu.
-
-Voltou para a rodoviária por outro caminho, dando a volta pela praça. Ele faz isso há meses e já nem pensa: nunca volta pelo caminho por onde veio. Quando alguém pergunta, ele diz que é mania de repórter, porque quem volta pelo mesmo caminho é seguido.
-
-Ele acha que está falando de gente.
+Ele não sabe o que fazer com isso, então anotou e continua relendo.
 
 ---
 
 ## Epílogo: Thales em 2024
 
-Quando a campanha começa, Thales Garcias Martins é este homem.
+Quando a campanha começa, Thales Garcias Martins tem trinta e quatro anos e está na Ordem há pouco mais de um ano.
 
-Tem trinta e quatro anos e uma mecha grisalha na têmpora esquerda que o faz parecer mais velho. É magro de um jeito que não é saudável. Usa botas impermeáveis em qualquer clima. Fala baixo e devagar. Nas entrevistas usa o silêncio: deixa a pessoa falar, não interrompe e espera. Faz sempre a mesma pergunta: *"Quem te contou isso? E quem contou pra essa pessoa?"*
+Ele é magro, com o rosto cansado de quem dorme com a luz acesa, e tem uma cicatriz grossa no ombro esquerdo que dói quando vai chover. Nunca usa capuz nem gorro. Fala baixo e devagar, e as pessoas continuam contando coisas a ele que não contam para mais ninguém. Quando entra num lugar, a primeira coisa que faz é procurar o interruptor.
 
-É agente da Ordem há poucos meses. É **Especialista**, na trilha de **Negociador**. Na mochila carrega o **revólver pesado** de Ivone, debaixo do caderno. A **espingarda de cano duplo curta** do avô fica no fundo da mala ou atravessada no banco de trás do carro, embrulhada no mesmo lençol em que passou trinta anos debaixo da cama da mãe. No bolso direito leva a primeira página de *A Lama Lembra*, no esquerdo a errata, e no bolso interno do casaco o terço de Dona Cida.
+Na mochila, ele carrega:
+- **o caderno da Filosofia do Rascunho**, Versão 0.3, escrito a lápis;
+- **o caderno de capa preta**, a lista, que hoje tem trezentos e quarenta e um nomes e detalhes, com a palavra *(encontrado)* ao lado de vinte e dois deles;
+- **as catorze páginas do hospital**, dobradas dentro do caderno preto, que ele relê toda semana em voz alta;
+- **o revólver pesado**, embaixo dos cadernos;
+- e, no bolso interno do casaco, o **terço de Dona Cida**.
 
-Escreve tudo a lápis e apaga muito. Quando está com medo de verdade, para de apagar.
+A **espingarda de cano duplo** que já esteve apontada para a cabeça dele viaja enrolada em lona.
+
+Uma vez por mês ele vai a Itaguaré visitar a mãe, que envelheceu muito depois daqueles dois meses em São Paulo e que nunca perguntou o que aconteceu. Uma vez por ano, no dia 17 de março, ele vai ao cemitério onde Jonathan foi enterrado com nome e senta um tempo com Dona Marinalva, que continua vendendo bolo de pote na porta da escola.
 
 ### O que ele sabe
 
-- Que a série era verdadeira e que a errata é mentira.
-- Que a mãe parou de perder dias na semana em que a errata saiu.
-- Que alguma coisa andou atrás dele e da mãe na trilha de 1997, e que ele perdeu onze dias depois de pisar na própria pegada.
-- Que escreveu onze páginas que não apagam e não lembra de nenhuma palavra.
-- Que toda segunda-feira um nome some da série arquivada, e que a conta termina em novembro de 2026, a mesma data que não sai do cabeçalho do caderno.
-- Que as frases da série voltam nas margens da errata, mas só na sombra.
-- Que Marta, Osmar Prestes e ele mesmo acordam com farelo de borracha no travesseiro.
-- Que Helena vai publicar no dia 17 de agosto.
+- Que alguma coisa estava ajoelhada ao lado dele naquele corredor, que ela matou três homens e enlouqueceu um quarto, e que o deixou vivo.
+- Que ela não pode ser vista de frente. Quando alguém olha, ela não está lá.
+- Que as luzes apagaram antes de ela aparecer, e que, com a luz acesa, a coceira não vem.
+- Que a Colônia São Jerônimo tem dois anos apagados, uma vala comum sem nome e uma carta que diz que *"um horror mal esquecido é pior do que um horror lembrado"*.
+- Que a Ordem sabe o que aquilo é e não conta.
 
 ### O que ele suspeita
 
-- Que o que está apagando os nomes **não é a mesma coisa** que andava na lama. Os sinais são diferentes demais: um anda no chão, o outro mora no papel.
-- Que o nome de Yasmin voltou por um dia por causa do que ele fez naquela cozinha, por ter contado a verdade chorando, e não por acaso.
-- Que a coisa no papel não suporta a luz do sol.
-- Que, se Helena publicar, a coisa da lama vai acordar e a mãe vai voltar a perder dias.
-- Que Ivone pode estar certa, e que esse é o pior cenário possível.
+- Que ele sobreviveu porque **não olhou**. Rúben disse isso, e ele acredita.
+- Que aquilo tem a ver com **esquecimento**: os ex-funcionários que não lembram, o perito, Rúben, Dr. Aurélio e as próprias catorze páginas se apagando da memória dele.
+- Que **lembrar** é a única coisa que o protege. É por isso que relê as páginas toda semana.
+- Que a coisa não ficou na Colônia.
 
-### O que ele ainda não percebeu
+### O que ele ainda não sabe
 
-Ele nunca relacionou o ponto de interrogação ao lado de *março de 2022* com o barulho da broca na cozinha da mãe, nem com a estaca amarela arrancada e deitada na lama apontando para o portão. Ele nunca colocou lado a lado as datas das sondagens, da perícia, da licitação e da extinção da ação com as datas em que a mãe piorou e melhorou.
+Ele não sabe o nome daquilo. Não sabe que a Ordem tem um nome para aquilo, e que esse nome é a mesma palavra que ele escreveu no alto de um caderno, sentado num meio-fio da Consolação, em 2013.
 
-Ele não percebeu que as ligações noturnas da mãe começaram na semana em que a licitação foi publicada, e que pararam no dia em que ele assinou.
+Não sabe por que ela olhou para dentro do capuz por tanto tempo. Não sabe se o deixou viver por piedade, por curiosidade ou porque ele era o único naquele corredor que passava a vida inteira **se recusando a esquecer as pessoas**.
 
-Ele não percebeu que a mãe nunca esteve tão bem quanto na semana em que recolheram as estacas.
+Não sabe que, nas semanas em que esquece de reler as catorze páginas, o movimento no canto do olho dele não aparece em qualquer lugar. Aparece sempre do lado esquerdo, sempre na altura de uma pessoa ajoelhada.
 
-Ele não percebeu que a coisa da lama nunca precisou ir buscá-lo. Ela já estava guardada nos ossos dele desde 1997, junto com o chumbo, e está guardada também nos ossos de Kauã, de Yasmin, de Pedro Henrique e de todas as crianças da Várzea que acordam à noite com dor nas canelas.
+E não sabe que, quando ele vira a cabeça e não tem nada lá, isso não quer dizer que ela foi embora.
 
-Ele não percebeu que, nas visitas mensais a Itaguaré, sempre no mesmo sábado, no mesmo ônibus, ele pega o mesmo caminho até a casa da mãe, porque é o único que ela consegue reconhecer da janela. Ele evita voltar pelo mesmo caminho, mas não percebeu que está **voltando no tempo**: todo mês, para a mesma casa, para a mesma mesa, para a mesma cadeira da cabeceira.
-
-Ele não percebeu que, quando conta a verdade sentindo de verdade, um nome volta, e quando sente vergonha, encontra farelo de borracha no travesseiro.
-
-Ele não contou, quando fez a conta no envelope de luz, o nome que vem depois dos cento e cinquenta e cinco. No pé da quinta parte da série, depois da última frase, há uma linha em itálico que ele escreveu em 2020 e nunca mais leu: *Por Thales Garcias Martins.*
-
-E ele não percebeu que, quando pisa em barro mole, a pegada que aparece um segundo depois **não está atrasada**. Ela está aprendendo o tamanho do pé dele.
+Quer dizer só que ele está olhando.
 
 ---
 
